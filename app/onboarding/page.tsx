@@ -22,8 +22,8 @@ export default function OnboardingPage() {
         subtitle: "Your personal beauty shopper — fast, simple, trusted.",
         bullets: [
           { title: "Curated", desc: "Only the best picks — no endless scrolling." },
-          { title: "Personal", desc: "Matched to your skin/hair + your budget." },
-          { title: "Quick", desc: "Get a routine in seconds and shop in one tap." },
+          { title: "Personal", desc: "Matched to your needs, taste, and budget." },
+          { title: "Quick", desc: "Find what fits in seconds and shop in one tap." },
         ],
       },
       {
@@ -31,7 +31,8 @@ export default function OnboardingPage() {
         subtitle: "No fake reviews. No overwhelm. Just clear recommendations.",
         bullets: [
           { title: "Busy-friendly", desc: "Perfect if you don’t have time to research." },
-          { title: "Trust-first", desc: "We explain why each product is recommended." },
+          // { title: "Trust-first", desc: "We explain why each product is recommended." },
+          { title: "Style + beauty", desc: "Skincare, beauty, and clothing picked with care." },
           { title: "Budget-smart", desc: "We show $ / $$ / $$$ options — you decide." },
         ],
       },
@@ -41,7 +42,8 @@ export default function OnboardingPage() {
         bullets: [
           { title: "No extra cost", desc: "Same price for you, always." },
           { title: "Trusted retailers", desc: "We link to official stores when possible." },
-          { title: "Your routine", desc: "Save favorites and come back anytime." },
+          // { title: "Your routine", desc: "Save favorites and come back anytime." },
+          { title: "Save favorites", desc: "Beauty and style picks saved anytime." },
         ],
       },
     ],
@@ -165,11 +167,13 @@ export default function OnboardingPage() {
                 />
               </div>
 
-              <div className="text-sm text-gray-600 mb-3">Today’s vibe</div>
+              <div className="text-sm text-gray-600 mb-3">Today’s picks</div>
               <h2 className="text-2xl font-semibold mb-2">Fast picks. Real results.</h2>
-              <p className="text-gray-700 mb-6">
-                Tell us your skin/hair goal and budget — we’ll recommend the best match.
-              </p>
+             <p className="text-gray-700 mb-6">
+               Tell us what you’re shopping for and your budget — we’ll recommend the best match.
+               {/* Tell us what you’re shopping for — beauty, skincare, or clothing — and your budget. We’ll recommend the best match. */}
+                </p>
+
 
               <div className="grid grid-cols-2 gap-3">
                 <div className="rounded-2xl border border-gray-200 p-4">
@@ -180,13 +184,22 @@ export default function OnboardingPage() {
                   </div>
                 </div>
 
-                <div className="rounded-2xl border border-gray-200 p-4">
+                {/* <div className="rounded-2xl border border-gray-200 p-4">
                   <div className="text-xs text-gray-500 mb-2">Haircare</div>
                   <div className="font-semibold">Frizz + Shine</div>
                   <div className="mt-3">
                     <Badge tone="accent">$ / $$ / $$$</Badge>
                   </div>
+                </div> */}
+
+                <div className="rounded-2xl border border-gray-200 p-4">
+                <div className="text-xs text-gray-500 mb-2">Clothing</div>
+                 <div className="font-semibold">Everyday chic</div>
+                <div className="mt-3">
+                <Badge tone="accent">$ / $$ / $$$</Badge>
                 </div>
+                </div>
+
 
                 <div className="rounded-2xl border border-gray-200 p-4 col-span-2">
                   <div className="text-xs text-gray-500 mb-2">One-tap shopping</div>

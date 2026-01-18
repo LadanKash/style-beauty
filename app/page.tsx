@@ -11,15 +11,23 @@ export default function HomePage() {
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-10 items-center">
           {/* Left: Text */}
           <div className="lg:col-span-7">
-            <Badge tone="accent">Trusted picks • fast</Badge>
+            {/* <Badge tone="accent">Trusted picks • fast</Badge> */}
+            <Badge tone="accent">Trusted beauty & style picks</Badge>
 
             <h1 className="text-5xl font-bold mt-4 mb-4">Style &amp; Beauty</h1>
 
-            <p className="text-lg text-gray-700 mb-8 max-w-xl">
+            {/* <p className="text-lg text-gray-700 mb-8 max-w-xl">
               Your personal beauty shopper.
               Discover skincare & haircare that truly fits your needs — curated with clarity, trust, and any budget in mind.
 
+            </p> */}
+
+            <p className="text-lg text-gray-700 mb-8 max-w-xl">
+            {/* Your personal style & beauty shopper.
+            Discover beauty, skincare, and clothing picks that truly fit your needs — curated with clarity, trust, and any budget in mind. */}
+            Your personal style & beauty shopper. Discover beauty, skincare, and clothing picks that fit your needs — curated with clarity, trust, and any budget in mind.
             </p>
+
 
             <div className="flex flex-wrap gap-3">
               <Button href="/onboarding" variant="accent" size="lg">
