@@ -55,7 +55,7 @@ export const products: Product[] = [
   budget: budgetFromPrice(102.00),
 
     description:
-      "Lifted, firmer, youthful-looking skin — a silky cream that visibly smooths lines and restores firmness for face and neck.",
+      "Lifted, firmer, youthful-looking skin — a silky cream that visibly smooths lines and restores firmness for face.",
     affiliateUrl: "https://amzn.to/49fJK7Y",
     images: ["/onboarding/clinique-face.jpeg", "/onboarding/clinique-face-model.jpeg"],
     tag: "Firmness + Hydration",
@@ -66,7 +66,7 @@ export const products: Product[] = [
     brand: "Clinique",
     name: "Clinique All About Eyes",
     category: "skincare",
-    concerns: ["hydration", "wrinkles", "firmness", "puffiness", "dark-circles"],
+    concerns: ["hydration", "wrinkles", "puffiness", "dark-circles"],
     price: 51.00,
   currency: "CAD",
   // budget: "$$",
@@ -201,7 +201,7 @@ export const products: Product[] = [
   name: "Calvin Klein Wool Blend Coat",
   category: "clothing",
   concerns: ["winter", "classic", "workwear"],
-  price: 212.0,
+  price: 212.00 ,
   currency: "CAD",
   budget: budgetFromPrice(212),
   description: "A classic tailored coat in a soft wool-blend — designed to elevate everyday looks with easy elegance.",
@@ -257,7 +257,329 @@ export const products: Product[] = [
   images: ["/onboarding/luggages.jpeg", "/onboarding/luggages-model.jpeg"],
   tag: "Travel in style",
 },
+{
+  id: "p15",
+  slug: "swarovski-april-birthstone-pendant",
+  name: "Swarovski April Birthstone Pendant Necklace",
+  brand: "Swarovski",
+  description: "A refined Swarovski pendant featuring a clear square-cut crystal inspired by April’s birthstone, designed to add timeless sparkle and everyday elegance.",
+  price: 89.00,
+  currency: "CAD",
+  budget: "$$",
+  category: "accessories",
+  concerns: ["jewelry", "gift", "everyday wear"],
+  tag: "Timeless sparkle",
+  images: [
+    "/onboarding/swarovski-april.jpeg",
+   "/onboarding/swarovski-april-model.jpeg"
+  ],
+  affiliateUrl: "https://amzn.to/3M5lEE7",
+},
+{
+  id: "p16",
+  slug: "michael-kors-xs-jet-set-travel-tote",
+  name: "Michael Kors XS Carry All Jet Set Travel Tote",
+  brand: "Michael Kors",
+  description: "A compact Michael Kors tote crafted for everyday elegance, featuring a structured silhouette, zip closure, and lightweight design for effortless style on the go.",
+  price: 179.00,
+  currency: "CAD",
+  budget: "$$",
+  category: "bags",
+  concerns: ["everyday use", "organization", "travel"],
+  tag: "Everyday classic",
+  images: [
+    "/onboarding/mk-jetset.jpeg",
+    "/onboarding/mk-jetset-model.jpeg"
+  ],
+  affiliateUrl: "https://amzn.to/49TW0u2",
+   
+},
+{
+  id: "p17",
+  slug: "kate-spade-madison-pochette",
+  name: "Kate Spade Madison Collection Pochette",
+  brand: "Kate Spade New York",
+  description: "A sleek Kate Spade pochette crafted in durable Saffiano leather, finished with a gold-tone chain and zip closure — perfect for day-to-night essentials.",
+  price: 123.95,
+  currency: "CAD",
+  budget: "$$",
+  category: "bags",
+  concerns: ["everyday use", "organization", "evening wear"],
+  tag: "Day to night",
+  images: [
+    "/onboarding/katespade-madison.jpeg",
+    "/onboarding/katespade-madison-model.jpeg"
+  ],
+  affiliateUrl: "https://amzn.to/4bRCfWr",
+  
+},
+{
+  id: "p18",
+  slug: "dream-pairs-platform-mini-boots",
+  name: "DREAM PAIRS Platform Mini Winter Boots",
+  brand: "DREAM PAIRS",
+  description: "Cozy platform mini boots crafted in soft suede with plush faux-fur lining, designed to keep you warm, comfortable, and stylish all winter long.",
+  price: 54.99,
+  currency: "CAD",
+  budget: "$",
+  category: "clothing",
+  concerns: ["warmth", "comfort", "winter wear", "slip resistance"],
+  tag: "Winter essential",
+  images: [
+    "/onboarding/dreampairs-mini.jpeg",
+    "/onboarding/dreampairs-mini-model.jpeg"
+  ],
+  affiliateUrl: "https://amzn.to/3ZAB5ak"
+},
 
+{
+  id: "p19",
+  slug: "clinique-even-better-makeup-foundation",
+  name: "Clinique Even Better Makeup Foundation SPF 15",
+  brand: "Clinique",
+  description: "A lightweight Clinique foundation with medium coverage and SPF 15, designed to visibly even skin tone and reduce the look of dark spots over time.",
+  price: 48.00,
+  currency: "CAD",
+  budget: "$$",
+  category: "skincare",
+  concerns: ["uneven tone", "dark spots", "hydration", "sun protection"],
+  tag: "Even skin tone",
+  images: [
+    "/onboarding/clinique-evenbetter.jpeg",
+    "/onboarding/clinique-evenbetter-model.jpeg"
+  ],
+  affiliateUrl: "https://amzn.to/4k3WbaU"
+},
+
+// {
+//   id: "p20",
+//   slug: "clinique-even-better-light-reflecting-primer",
+//   name: "Clinique Even Better Light Reflecting Face Primer",
+//   brand: "Clinique",
+//   description:
+//     "Lightweight face primer with Vitamin C and Hyaluronic Acid that hydrates, smooths, and boosts radiance for a glowing complexion.",
+//   price: 25.20,
+//   currency: "CAD",
+//   budget: "$",
+//   category: "skincare",
+//   concerns: ["radiance", "hydration", "primer", "dull-skin"],
+//   tag: "Glow + Hydration",
+//   images: [
+//     "/onboarding/clinique-even-better.jpeg",
+//     "/onboarding/clinique-even-better-model.jpeg"
+//   ],
+//   affiliateUrl: "https://amzn.to/49GSfco"
+// },
+{
+  id: "p21",
+  slug: "clinique-touch-base-for-eyes-canvas-light",
+  name: "Clinique Touch Base for Eyes (Canvas Light)",
+  brand: "Clinique",
+  description:
+    "Long-lasting cream eyeshadow + primer that helps resist creasing, fading, and smudging—safe for sensitive eyes.",
+  price: 28.05,
+  currency: "CAD",
+  budget: "$",
+  category: "skincare",
+  concerns: ["sensitive-eyes", "primer", "crease-resistance", "long-wear"],
+  tag: "Eyeshadow + Primer",
+  images: [
+   
+    "/onboarding/clinique-touch-base-open.JPEG",
+    "/onboarding/clinique-touch-base-compact.jpeg",
+  ],
+  affiliateUrl: "https://amzn.to/49TCzBg"
+},
+
+
+{
+  id: "p20",
+  slug: "prettygarden-wide-leg-dress-pants",
+  name: "PRETTYGARDEN Womens Wide Leg Dress Pants",
+  brand: "PRETTYGARDEN",
+  description: "Flowy high-waisted wide-leg pants designed for effortless comfort and a polished business-casual look, perfect for work or everyday wear.",
+  price: 77.17,
+  currency: "CAD",
+  budget: "$",
+  category: "clothing",
+  concerns: ["comfort", "workwear", "everyday wear", "fit"],
+  tag: "Business casual",
+  images: [
+    "/onboarding/prettygarden-pants.jpeg",
+    "/onboarding/prettygarden-pants-model.jpeg"
+  ],
+  affiliateUrl: "https://amzn.to/45vPJDo"
+},
+
+{
+  id: "p22",
+  slug: "michael-kors-elyse-high-pump",
+  name: "Michael Kors Elyse High Pump",
+  brand: "Michael Kors",
+  description: "Elegant suede high-heel pumps designed with a sleek pointed toe and slim stiletto heel, perfect for elevating both work and evening looks.",
+  price: 129.33,
+  currency: "CAD",
+  budget: "$$",
+  category: "clothing",
+  concerns: ["elegance", "formal wear", "evening style"],
+  tag: "Modern glamour",
+  images: [
+    "/onboarding/mk-elyse-pump.jpeg",
+    "/onboarding/mk-elyse-pump-model.jpeg"
+  ],
+  affiliateUrl: "https://amzn.to/4pVouJy"
+},
+{
+  id: "p23",
+  slug: "osprey-arcane-large-day-backpack",
+  name: "Osprey Arcane Large Day Backpack",
+  brand: "Osprey",
+  description: "A sleek, minimalist everyday backpack designed for comfort and organization, featuring a padded laptop sleeve and durable materials for daily use.",
+  price: 147.59,
+  currency: "CAD",
+  budget: "$$",
+  category: "bags",
+  concerns: ["work essentials", "travel", "organization", "comfort"],
+  tag: "Everyday carry",
+  images: [
+    "/onboarding/osprey-arcane.jpeg",
+    "/onboarding/osprey-arcane-model.jpeg"
+  ],
+  affiliateUrl: "https://amzn.to/4rb97xI"
+},
+{
+  id: "p24",
+  slug: "skechers-uno-stand-on-air-womens",
+  name: "Skechers Uno – Stand On Air Sneakers",
+  brand: "Skechers",
+  description: "A stylish everyday sneaker featuring Air-Cooled Memory Foam cushioning and a visible air midsole for lightweight comfort and modern street style.",
+  price: 67.99,
+  currency: "CAD",
+  budget: "$$",
+  category: "clothing",
+  concerns: ["walking", "comfort", "everyday wear"],
+  tag: "All-day comfort",
+  images: [
+    "/onboarding/skechers-uno.jpeg",
+    "/onboarding/skechers-uno-model.jpeg"
+  ],
+  affiliateUrl: "https://amzn.to/4abzyh4"
+},
+{
+  id: "p25",
+  slug: "heymoments-wide-leg-tie-waist-pants",
+  name: "Heymoments Wide Leg Tie-Waist Pants",
+  brand: "Heymoments",
+  description:
+    "Lightweight, high-waisted wide leg pants with an adjustable tie waist and side pockets. Soft, breathable fabric for all-day comfort with an effortlessly chic look.",
+  price: 29.99,
+  currency: "CAD",
+  budget: "$",
+  category: "clothing",
+  concerns: ["comfort", "breathable", "everyday wear"],
+  tag: "Comfy + Chic",
+  images: [
+    "/onboarding/heymoments-pants.jpeg",
+    "/onboarding/heymoments-pants-model.jpeg"
+  ],
+  affiliateUrl: "https://amzn.to/45ofG7W"
+},
+{
+  id: "p26",
+  slug: "swarovski-attract-trilogy-drop-earrings",
+  name: "Attract Trilogy Crystal Drop Earrings",
+  brand: "Swarovski",
+  description: "Elegant drop earrings featuring three sparkling clear crystals in a rhodium-plated setting — timeless, refined, and perfect for both everyday wear and special occasions.",
+  price: 119.00,
+  currency: "CAD",
+  budget: "$$",
+  category: "accessories",
+  concerns: ["elegant", "gift-idea", "formal", "everyday"],
+  tag: "Timeless Sparkle",
+  images: [
+    "/onboarding/swarovski-earrings.jpeg",
+    "/onboarding/swarovski-earrings-model.jpeg"
+  ],
+  affiliateUrl: "https://amzn.to/49YIvcp"
+},
+{
+  id: "p27",
+  slug: "aisicoo-pointed-toe-stiletto-pumps",
+  name: "Pointed Toe Stiletto High Heel Pumps",
+  brand: "Aisicoo",
+  description: "Elegant slip-on stiletto pumps featuring a pointed toe and chic patchwork design, ideal for parties, events, and polished outfits.",
+  price: 79.37,
+  currency: "CAD",
+  budget: "$",
+  category: "clothing",
+  concerns: ["party", "formal", "evening"],
+  tag: "Elegant heels",
+  images: [
+    "/onboarding/aisicoo-heels.jpg",
+    "/onboarding/aisicoo-heels-model.png"
+  ],
+  affiliateUrl: "https://amzn.to/4pYqqkH"
+}, 
+
+
+{
+  id: "p29",
+  slug: "dream-pairs-platform-mini-winter-boots",
+  name: "DREAM PAIRS Platform Mini Winter Boots",
+  brand: "DREAM PAIRS",
+  description:
+    "Cozy platform mini snow boots crafted in soft suede with plush faux-fur lining and a cushioned memory foam insole for warmth, comfort, and everyday winter wear.",
+  price: 54.99,
+  currency: "CAD",
+  budget: "$",
+  category: "clothing",
+  concerns: ["warmth", "winter", "comfort", "outdoor"],
+  tag: "Winter essential",
+  images: [
+     "/onboarding/dreampairs-mini.jpeg",
+    "/onboarding/dreampairs-mini-model.jpeg"
+  ],
+  affiliateUrl: "https://amzn.to/3ZAB5ak"
+},
+{
+  id: "p30",
+  slug: "bellroy-tokyo-wonder-tote-15l",
+  name: "Bellroy Tokyo Wonder Tote (15L)",
+  brand: "Bellroy",
+  description:
+    "A sleek everyday tote with smart internal organization, a padded 16-inch laptop sleeve, and a wide zip opening, crafted from durable water-resistant materials.",
+  price: 199.00 ,
+  currency: "CAD",
+  budget: "$$",
+  category: "bags",
+  concerns: ["work essentials", "laptop carry", "travel", "organization"],
+  tag: "Modern work tote",
+  images: [
+    "/onboarding/bellroy-tokyo-laptop.jpeg",
+   "/onboarding/bellroy-tokyo-tote-model.jpeg"
+  ],
+  affiliateUrl: "https://amzn.to/3LLXCho"
+},
+
+{
+  id: "p31",
+  slug: "bellroy-toiletry-kit-plus",
+  name: "Bellroy Toiletry Kit Plus",
+  brand: "Bellroy",
+  description:
+    "A spacious toiletry pouch with smart internal organization, a magnetic toothbrush shelf, and water-resistant materials—perfect for longer trips and larger essentials.",
+  price: 89.00,
+  currency: "CAD",
+  budget: "$$",
+  category: "bags",
+  concerns: ["travel", "organization", "toiletries", "water-resistant"],
+  tag: "Travel essential",
+  images: [
+    "/onboarding/bellroy-toiletry-plus.jpeg",
+    "/onboarding/bellroy-toiletry-plus-model.jpeg"
+  ],
+  affiliateUrl: "https://amzn.to/4acQCTZ"
+}
 
 ];
 
