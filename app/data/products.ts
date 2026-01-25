@@ -351,25 +351,26 @@ export const products: Product[] = [
   affiliateUrl: "https://amzn.to/4k3WbaU"
 },
 
-// {
-//   id: "p20",
-//   slug: "clinique-even-better-light-reflecting-primer",
-//   name: "Clinique Even Better Light Reflecting Face Primer",
-//   brand: "Clinique",
-//   description:
-//     "Lightweight face primer with Vitamin C and Hyaluronic Acid that hydrates, smooths, and boosts radiance for a glowing complexion.",
-//   price: 25.20,
-//   currency: "CAD",
-//   budget: "$",
-//   category: "skincare",
-//   concerns: ["radiance", "hydration", "primer", "dull-skin"],
-//   tag: "Glow + Hydration",
-//   images: [
-//     "/onboarding/clinique-even-better.jpeg",
-//     "/onboarding/clinique-even-better-model.jpeg"
-//   ],
-//   affiliateUrl: "https://amzn.to/49GSfco"
-// },
+{
+  id: "p20",
+  slug: "clinique-even-better-light-reflecting-primer",
+  name: "Clinique Even Better Light Reflecting Face Primer",
+  brand: "Clinique",
+  description:
+    "Lightweight face primer with Vitamin C and Hyaluronic Acid that hydrates, smooths, and boosts radiance for a glowing complexion.",
+  price: 25.20,
+  currency: "CAD",
+  budget: "$",
+  category: "skincare",
+  concerns: ["radiance", "hydration", "primer", "dull-skin"],
+  tag: "Glow + Hydration",
+  images: [
+    "/onboarding/clinique-even-better.jpeg",
+    "/onboarding/clinique-even-better-model.jpeg"
+  ],
+  affiliateUrl: "https://amzn.to/49GSfco"
+},
+
 {
   id: "p21",
   slug: "clinique-touch-base-for-eyes-canvas-light",
@@ -579,6 +580,26 @@ export const products: Product[] = [
     "/onboarding/bellroy-toiletry-plus-model.jpeg"
   ],
   affiliateUrl: "https://amzn.to/4acQCTZ"
+},
+
+{
+  id: "p33",
+  slug: "womens-chelsea-ankle-boots-winter-fur-lined",
+  name: "Women's Chelsea Ankle Boots",
+  brand: "Generic",
+  description:
+    "Waterproof winter Chelsea ankle boots with a smooth PU leather upper and warm faux fur lining. Designed for easy slip-on wear with elastic side panels and pull loops. Non-slip rubber sole provides stability and comfort for all-day wear in cold and wet conditions.",
+  price: 62.99,
+  currency: "CAD",
+  budget: "$$",
+  category: "clothing",
+  concerns: ["cold-weather", "slip-resistance", "comfort"],
+  tag: "Winter Chelsea Boots",
+  images: [
+    "/onboarding/chelsea-boots-front.jpeg",
+    "/onboarding/chelsea-boots-model.jpeg"
+  ],
+  affiliateUrl: "https://amzn.to/4q8mbmU"
 }
 
 ];
