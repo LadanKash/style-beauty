@@ -1,0 +1,751 @@
+[
+  {
+    "id": "p1",
+    "slug": "clinique-smart-repair-face-neck-cream",
+    "name": "Clinique Smart Repair Face & Neck Cream",
+    "brand": "Clinique",
+    "category": "skincare",
+    "concerns": [
+      "wrinkles",
+      "firmness",
+      "hydration"
+    ],
+    "price": 106,
+    "currency": "CAD",
+    "budget": "$$$",
+    "description": "Lifted, firmer, youthful-looking skin — a silky cream that visibly smooths lines and restores firmness for face and neck.",
+    "affiliateUrl": "https://amzn.to/3Lp8pxS",
+    "imageUrl": "https://stylebeauti.com/onboarding/clinique-neck.jpeg",
+    "images": [
+      "https://stylebeauti.com/onboarding/clinique-neck.jpeg",
+      "https://stylebeauti.com/onboarding/clinique-neck-model.png"
+    ],
+    "tag": "Firmness + Hydration"
+  },
+  {
+    "id": "p2",
+    "slug": "clinique-smart-repair-face-cream",
+    "name": "Clinique Smart Repair Face",
+    "brand": "Clinique",
+    "category": "skincare",
+    "concerns": [
+      "hydration",
+      "wrinkles",
+      "firmness"
+    ],
+    "price": 102,
+    "currency": "CAD",
+    "budget": "$$$",
+    "description": "Lifted, firmer, youthful-looking skin — a silky cream that visibly smooths lines and restores firmness for face.",
+    "affiliateUrl": "https://amzn.to/49fJK7Y",
+    "imageUrl": "https://stylebeauti.com/onboarding/clinique-face.jpeg",
+    "images": [
+      "https://stylebeauti.com/onboarding/clinique-face.jpeg",
+      "https://stylebeauti.com/onboarding/clinique-face-model.jpeg"
+    ],
+    "tag": "Firmness + Hydration"
+  },
+  {
+    "id": "p3",
+    "slug": "clinique-all-about-eyes",
+    "name": "Clinique All About Eyes",
+    "brand": "Clinique",
+    "category": "skincare",
+    "concerns": [
+      "hydration",
+      "wrinkles",
+      "puffiness",
+      "dark-circles"
+    ],
+    "price": 51,
+    "currency": "CAD",
+    "budget": "$$",
+    "description": "Bright, smooth, refreshed eyes — a lightweight eye cream that hydrates and helps reduce the look of dark circles and puffiness.",
+    "affiliateUrl": "https://amzn.to/4sBEQtz",
+    "imageUrl": "https://stylebeauti.com/onboarding/clinique-eyes.jpeg",
+    "images": [
+      "https://stylebeauti.com/onboarding/clinique-eyes.jpeg",
+      "https://stylebeauti.com/onboarding/clinique-eyes-model.jpeg"
+    ],
+    "tag": "Brightening + Smooth"
+  },
+  {
+    "id": "p4",
+    "slug": "hairtamin-vegan-gummies",
+    "name": "HAIRtamin Vegan Hair Gummies",
+    "brand": "HAIRtamin",
+    "category": "haircare",
+    "concerns": [
+      "frizz",
+      "shine",
+      "breakage",
+      "thinning",
+      "scalp"
+    ],
+    "price": 106,
+    "currency": "CAD",
+    "budget": "$$$",
+    "description": "Nourish your hair from the inside out — delicious vegan gummies designed to support thicker, shinier, healthier-looking hair.",
+    "affiliateUrl": "https://amzn.to/4pzIj9h",
+    "imageUrl": "https://stylebeauti.com/onboarding/hairtamin.jpeg",
+    "images": [
+      "https://stylebeauti.com/onboarding/hairtamin.jpeg",
+      "https://stylebeauti.com/onboarding/hairtamin-model.jpeg"
+    ],
+    "tag": "Thicker-looking hair"
+  },
+  {
+    "id": "p5",
+    "slug": "kerastase-genesis-homme-serum",
+    "name": "Kérastase Genesis Homme Fortifying Serum",
+    "brand": "Kérastase",
+    "category": "haircare",
+    "concerns": [
+      "thinning",
+      "breakage",
+      "scalp"
+    ],
+    "price": 95,
+    "currency": "CAD",
+    "budget": "$$$",
+    "description": "A lightweight daily serum designed to help reduce breakage-related hair fall and support stronger-looking hair.",
+    "affiliateUrl": "https://amzn.to/3YDlczE",
+    "imageUrl": "https://stylebeauti.com/onboarding/genesis-serum.jpeg",
+    "images": [
+      "https://stylebeauti.com/onboarding/genesis-serum.jpeg",
+      "https://stylebeauti.com/onboarding/genesis-serum-model.jpg"
+    ],
+    "tag": "Thicker-looking hair"
+  },
+  {
+    "id": "p6",
+    "slug": "kerastase-elixir-ultime-hair-oil",
+    "name": "Kérastase Elixir Ultime Hair Oil",
+    "brand": "Kérastase",
+    "category": "haircare",
+    "concerns": [
+      "shine",
+      "frizz",
+      "smoothness"
+    ],
+    "price": 46,
+    "currency": "CAD",
+    "budget": "$$",
+    "description": "A versatile hair oil that boosts shine, smooths frizz, and adds a polished finish on all hair types.",
+    "affiliateUrl": "https://amzn.to/4qdmptv",
+    "imageUrl": "https://stylebeauti.com/onboarding/shineoil.jpeg",
+    "images": [
+      "https://stylebeauti.com/onboarding/shineoil.jpeg",
+      "https://stylebeauti.com/onboarding/shineoil-model.jpg"
+    ],
+    "tag": "Shine + Smooth"
+  },
+  {
+    "id": "p7",
+    "slug": "swarovski-attract-stud-earrings",
+    "name": "Swarovski Attract Stud Earrings",
+    "brand": "Swarovski",
+    "category": "accessories",
+    "concerns": [
+      "minimal",
+      "everyday",
+      "gift"
+    ],
+    "price": 63,
+    "currency": "CAD",
+    "budget": "$$",
+    "description": "Elegant crystal studs — a refined everyday piece and a beautiful gift.",
+    "affiliateUrl": "https://amzn.to/4pNyhBw",
+    "imageUrl": "https://stylebeauti.com/onboarding/earring.jpeg",
+    "images": [
+      "https://stylebeauti.com/onboarding/earring.jpeg",
+      "https://stylebeauti.com/onboarding/earring-model.jpeg"
+    ],
+    "tag": "Minimal sparkle"
+  },
+  {
+    "id": "p8",
+    "slug": "swarovski-crystal-jewelry-set",
+    "name": "Swarovski Crystal Necklace & Earrings Set",
+    "brand": "Swarovski",
+    "category": "accessories",
+    "concerns": [
+      "elegant",
+      "gift",
+      "evening"
+    ],
+    "price": 138.25,
+    "currency": "CAD",
+    "budget": "$$$",
+    "description": "A classic set featuring a radiant pendant necklace and matching studs for effortless sophistication.",
+    "affiliateUrl": "https://amzn.to/49Wg2Fj",
+    "imageUrl": "https://stylebeauti.com/onboarding/necklace.jpeg",
+    "images": [
+      "https://stylebeauti.com/onboarding/necklace.jpeg",
+      "https://stylebeauti.com/onboarding/necklace-model.jpeg"
+    ],
+    "tag": "Timeless sparkle"
+  },
+  {
+    "id": "p9",
+    "slug": "winter-snow-ankle-boots",
+    "name": "Winter Snow Ankle Boots",
+    "brand": "Generic",
+    "category": "clothing",
+    "concerns": [
+      "winter",
+      "warmth",
+      "everyday"
+    ],
+    "price": 35.99,
+    "currency": "CAD",
+    "budget": "$$",
+    "description": "Fur-lined slip-on boots designed to keep your feet warm and comfortable on cold winter days.",
+    "affiliateUrl": "https://amzn.to/4k52TNT",
+    "imageUrl": "https://stylebeauti.com/onboarding/cozyboots.jpeg",
+    "images": [
+      "https://stylebeauti.com/onboarding/cozyboots.jpeg",
+      "https://stylebeauti.com/onboarding/cozyboots-model.jpeg"
+    ],
+    "tag": "Warm + Cozy"
+  },
+  {
+    "id": "p10",
+    "slug": "jw-pei-hana-faux-suede-tote",
+    "name": "JW PEI Hana Faux Suede Tote",
+    "brand": "JW PEI",
+    "category": "bags",
+    "concerns": [
+      "modern",
+      "chic",
+      "everyday"
+    ],
+    "price": 186,
+    "currency": "CAD",
+    "budget": "$$$",
+    "description": "A chic, structured tote with a soft faux suede finish — perfect for daily essentials.",
+    "affiliateUrl": "https://amzn.to/3LSuLIb",
+    "imageUrl": "https://stylebeauti.com/onboarding/jwsac.jpeg",
+    "images": [
+      "https://stylebeauti.com/onboarding/jwsac.jpeg",
+      "https://stylebeauti.com/onboarding/jwsac-model.jpeg"
+    ],
+    "tag": "Modern minimal"
+  },
+  {
+    "id": "p11",
+    "slug": "calvin-klein-wool-blend-coat",
+    "name": "Calvin Klein Wool Blend Coat",
+    "brand": "Calvin Klein",
+    "category": "clothing",
+    "concerns": [
+      "winter",
+      "classic",
+      "workwear"
+    ],
+    "price": 212,
+    "currency": "CAD",
+    "budget": "$$$",
+    "description": "A classic tailored coat in a soft wool-blend — designed to elevate everyday looks with easy elegance.",
+    "affiliateUrl": "https://amzn.to/4sKB15l",
+    "imageUrl": "https://stylebeauti.com/onboarding/coatbrown-front.jpeg",
+    "images": [
+      "https://stylebeauti.com/onboarding/coatbrown-front.jpeg",
+      "https://stylebeauti.com/onboarding/coatbrown-back.jpeg"
+    ],
+    "tag": "Cozy-luxury"
+  },
+  {
+    "id": "p12",
+    "slug": "calvin-klein-belted-rain-jacket",
+    "name": "Calvin Klein Belted Rain Jacket",
+    "brand": "Calvin Klein",
+    "category": "clothing",
+    "concerns": [
+      "rain",
+      "classic",
+      "everyday"
+    ],
+    "price": 139.39,
+    "currency": "CAD",
+    "budget": "$$$",
+    "description": "A sleek belted rain jacket with a removable hood — polished style for unpredictable weather.",
+    "affiliateUrl": "https://amzn.to/49XFqui",
+    "imageUrl": "https://stylebeauti.com/onboarding/jacket-front.jpeg",
+    "images": [
+      "https://stylebeauti.com/onboarding/jacket-front.jpeg",
+      "https://stylebeauti.com/onboarding/jacket-back.jpeg"
+    ],
+    "tag": "All-weather chic"
+  },
+  {
+    "id": "p13",
+    "slug": "keen-waterproof-winter-boots",
+    "name": "KEEN Waterproof Winter Boots",
+    "brand": "KEEN",
+    "category": "clothing",
+    "concerns": [
+      "winter",
+      "outdoor",
+      "warmth"
+    ],
+    "price": 219.99,
+    "currency": "CAD",
+    "budget": "$$$",
+    "description": "A reliable waterproof winter boot built for warmth and traction on snowy days.",
+    "affiliateUrl": "https://amzn.to/4qWKAMG",
+    "imageUrl": "https://stylebeauti.com/onboarding/keen-brown.jpeg",
+    "images": [
+      "https://stylebeauti.com/onboarding/keen-brown.jpeg",
+      "https://stylebeauti.com/onboarding/keen-black.jpeg"
+    ],
+    "tag": "Winter performance"
+  },
+  {
+    "id": "p14",
+    "slug": "showkoo-expandable-luggage-set",
+    "name": "SHOWKOO Expandable Luggage Set",
+    "brand": "SHOWKOO",
+    "category": "accessories",
+    "concerns": [
+      "travel",
+      "organization",
+      "durable"
+    ],
+    "price": 219.99,
+    "currency": "CAD",
+    "budget": "$$$",
+    "description": "A durable, expandable luggage set designed for smooth rolling and easy organization with a clean modern look.",
+    "affiliateUrl": "https://amzn.to/4qq5KD4",
+    "imageUrl": "https://stylebeauti.com/onboarding/luggages.jpeg",
+    "images": [
+      "https://stylebeauti.com/onboarding/luggages.jpeg",
+      "https://stylebeauti.com/onboarding/luggages-model.jpeg"
+    ],
+    "tag": "Travel in style"
+  },
+  {
+    "id": "p15",
+    "slug": "swarovski-april-birthstone-pendant",
+    "name": "Swarovski April Birthstone Pendant Necklace",
+    "brand": "Swarovski",
+    "category": "accessories",
+    "concerns": [
+      "jewelry",
+      "gift",
+      "everyday wear"
+    ],
+    "price": 89,
+    "currency": "CAD",
+    "budget": "$$",
+    "description": "A refined Swarovski pendant featuring a clear square-cut crystal inspired by April’s birthstone, designed to add timeless sparkle and everyday elegance.",
+    "affiliateUrl": "https://amzn.to/3M5lEE7",
+    "imageUrl": "https://stylebeauti.com/onboarding/swarovski-april.jpeg",
+    "images": [
+      "https://stylebeauti.com/onboarding/swarovski-april.jpeg",
+      "https://stylebeauti.com/onboarding/swarovski-april-model.jpeg"
+    ],
+    "tag": "Timeless sparkle"
+  },
+  {
+    "id": "p16",
+    "slug": "michael-kors-xs-jet-set-travel-tote",
+    "name": "Michael Kors XS Carry All Jet Set Travel Tote",
+    "brand": "Michael Kors",
+    "category": "bags",
+    "concerns": [
+      "everyday use",
+      "organization",
+      "travel"
+    ],
+    "price": 179,
+    "currency": "CAD",
+    "budget": "$$",
+    "description": "A compact Michael Kors tote crafted for everyday elegance, featuring a structured silhouette, zip closure, and lightweight design for effortless style on the go.",
+    "affiliateUrl": "https://amzn.to/49TW0u2",
+    "imageUrl": "https://stylebeauti.com/onboarding/mk-jetset.jpeg",
+    "images": [
+      "https://stylebeauti.com/onboarding/mk-jetset.jpeg",
+      "https://stylebeauti.com/onboarding/mk-jetset-model.jpeg"
+    ],
+    "tag": "Everyday classic"
+  },
+  {
+    "id": "p17",
+    "slug": "kate-spade-madison-pochette",
+    "name": "Kate Spade Madison Collection Pochette",
+    "brand": "Kate Spade New York",
+    "category": "bags",
+    "concerns": [
+      "everyday use",
+      "organization",
+      "evening wear"
+    ],
+    "price": 123.95,
+    "currency": "CAD",
+    "budget": "$$",
+    "description": "A sleek Kate Spade pochette crafted in durable Saffiano leather, finished with a gold-tone chain and zip closure — perfect for day-to-night essentials.",
+    "affiliateUrl": "https://amzn.to/4bRCfWr",
+    "imageUrl": "https://stylebeauti.com/onboarding/katespade-madison.jpeg",
+    "images": [
+      "https://stylebeauti.com/onboarding/katespade-madison.jpeg",
+      "https://stylebeauti.com/onboarding/katespade-madison-model.jpeg"
+    ],
+    "tag": "Day to night"
+  },
+  {
+    "id": "p18",
+    "slug": "dream-pairs-platform-mini-boots",
+    "name": "DREAM PAIRS Platform Mini Winter Boots",
+    "brand": "DREAM PAIRS",
+    "category": "clothing",
+    "concerns": [
+      "warmth",
+      "comfort",
+      "winter wear",
+      "slip resistance"
+    ],
+    "price": 54.99,
+    "currency": "CAD",
+    "budget": "$",
+    "description": "Cozy platform mini boots crafted in soft suede with plush faux-fur lining, designed to keep you warm, comfortable, and stylish all winter long.",
+    "affiliateUrl": "https://amzn.to/3ZAB5ak",
+    "imageUrl": "https://stylebeauti.com/onboarding/dreampairs-mini.jpeg",
+    "images": [
+      "https://stylebeauti.com/onboarding/dreampairs-mini.jpeg",
+      "https://stylebeauti.com/onboarding/dreampairs-mini-model.jpeg"
+    ],
+    "tag": "Winter essential"
+  },
+  {
+    "id": "p19",
+    "slug": "clinique-even-better-makeup-foundation",
+    "name": "Clinique Even Better Makeup Foundation SPF 15",
+    "brand": "Clinique",
+    "category": "skincare",
+    "concerns": [
+      "uneven tone",
+      "dark spots",
+      "hydration",
+      "sun protection"
+    ],
+    "price": 48,
+    "currency": "CAD",
+    "budget": "$$",
+    "description": "A lightweight Clinique foundation with medium coverage and SPF 15, designed to visibly even skin tone and reduce the look of dark spots over time.",
+    "affiliateUrl": "https://amzn.to/4k3WbaU",
+    "imageUrl": "https://stylebeauti.com/onboarding/clinique-evenbetter.jpeg",
+    "images": [
+      "https://stylebeauti.com/onboarding/clinique-evenbetter.jpeg",
+      "https://stylebeauti.com/onboarding/clinique-evenbetter-model.jpeg"
+    ],
+    "tag": "Even skin tone"
+  },
+  {
+    "id": "p20",
+    "slug": "clinique-even-better-light-reflecting-primer",
+    "name": "Clinique Even Better Light Reflecting Face Primer",
+    "brand": "Clinique",
+    "category": "skincare",
+    "concerns": [
+      "radiance",
+      "hydration",
+      "primer",
+      "dull-skin"
+    ],
+    "price": 25.2,
+    "currency": "CAD",
+    "budget": "$",
+    "description": "Lightweight face primer with Vitamin C and Hyaluronic Acid that hydrates, smooths, and boosts radiance for a glowing complexion.",
+    "affiliateUrl": "https://amzn.to/49GSfco",
+    "imageUrl": "https://stylebeauti.com/onboarding/clinique-even-better.jpeg",
+    "images": [
+      "https://stylebeauti.com/onboarding/clinique-even-better.jpeg",
+      "https://stylebeauti.com/onboarding/clinique-even-better-model.jpeg"
+    ],
+    "tag": "Glow + Hydration"
+  },
+  {
+    "id": "p21",
+    "slug": "clinique-touch-base-for-eyes-canvas-light",
+    "name": "Clinique Touch Base for Eyes (Canvas Light)",
+    "brand": "Clinique",
+    "category": "skincare",
+    "concerns": [
+      "sensitive-eyes",
+      "primer",
+      "crease-resistance",
+      "long-wear"
+    ],
+    "price": 28.05,
+    "currency": "CAD",
+    "budget": "$",
+    "description": "Long-lasting cream eyeshadow + primer that helps resist creasing, fading, and smudging—safe for sensitive eyes.",
+    "affiliateUrl": "https://amzn.to/49TCzBg",
+    "imageUrl": "https://stylebeauti.com/onboarding/clinique-touch-base-open.JPEG",
+    "images": [
+      "https://stylebeauti.com/onboarding/clinique-touch-base-open.JPEG",
+      "https://stylebeauti.com/onboarding/clinique-touch-base-compact.jpeg"
+    ],
+    "tag": "Eyeshadow + Primer"
+  },
+  {
+    "id": "p20",
+    "slug": "prettygarden-wide-leg-dress-pants",
+    "name": "PRETTYGARDEN Womens Wide Leg Dress Pants",
+    "brand": "PRETTYGARDEN",
+    "category": "clothing",
+    "concerns": [
+      "comfort",
+      "workwear",
+      "everyday wear",
+      "fit"
+    ],
+    "price": 77.17,
+    "currency": "CAD",
+    "budget": "$",
+    "description": "Flowy high-waisted wide-leg pants designed for effortless comfort and a polished business-casual look, perfect for work or everyday wear.",
+    "affiliateUrl": "https://amzn.to/45vPJDo",
+    "imageUrl": "https://stylebeauti.com/onboarding/prettygarden-pants.jpeg",
+    "images": [
+      "https://stylebeauti.com/onboarding/prettygarden-pants.jpeg",
+      "https://stylebeauti.com/onboarding/prettygarden-pants-model.jpeg"
+    ],
+    "tag": "Business casual"
+  },
+  {
+    "id": "p22",
+    "slug": "michael-kors-elyse-high-pump",
+    "name": "Michael Kors Elyse High Pump",
+    "brand": "Michael Kors",
+    "category": "clothing",
+    "concerns": [
+      "elegance",
+      "formal wear",
+      "evening style"
+    ],
+    "price": 129.33,
+    "currency": "CAD",
+    "budget": "$$",
+    "description": "Elegant suede high-heel pumps designed with a sleek pointed toe and slim stiletto heel, perfect for elevating both work and evening looks.",
+    "affiliateUrl": "https://amzn.to/4pVouJy",
+    "imageUrl": "https://stylebeauti.com/onboarding/mk-elyse-pump.jpeg",
+    "images": [
+      "https://stylebeauti.com/onboarding/mk-elyse-pump.jpeg",
+      "https://stylebeauti.com/onboarding/mk-elyse-pump-model.jpeg"
+    ],
+    "tag": "Modern glamour"
+  },
+  {
+    "id": "p23",
+    "slug": "osprey-arcane-large-day-backpack",
+    "name": "Osprey Arcane Large Day Backpack",
+    "brand": "Osprey",
+    "category": "bags",
+    "concerns": [
+      "work essentials",
+      "travel",
+      "organization",
+      "comfort"
+    ],
+    "price": 147.59,
+    "currency": "CAD",
+    "budget": "$$",
+    "description": "A sleek, minimalist everyday backpack designed for comfort and organization, featuring a padded laptop sleeve and durable materials for daily use.",
+    "affiliateUrl": "https://amzn.to/4rb97xI",
+    "imageUrl": "https://stylebeauti.com/onboarding/osprey-arcane.jpeg",
+    "images": [
+      "https://stylebeauti.com/onboarding/osprey-arcane.jpeg",
+      "https://stylebeauti.com/onboarding/osprey-arcane-model.jpeg"
+    ],
+    "tag": "Everyday carry"
+  },
+  {
+    "id": "p24",
+    "slug": "skechers-uno-stand-on-air-womens",
+    "name": "Skechers Uno – Stand On Air Sneakers",
+    "brand": "Skechers",
+    "category": "clothing",
+    "concerns": [
+      "walking",
+      "comfort",
+      "everyday wear"
+    ],
+    "price": 67.99,
+    "currency": "CAD",
+    "budget": "$$",
+    "description": "A stylish everyday sneaker featuring Air-Cooled Memory Foam cushioning and a visible air midsole for lightweight comfort and modern street style.",
+    "affiliateUrl": "https://amzn.to/4abzyh4",
+    "imageUrl": "https://stylebeauti.com/onboarding/skechers-uno.jpeg",
+    "images": [
+      "https://stylebeauti.com/onboarding/skechers-uno.jpeg",
+      "https://stylebeauti.com/onboarding/skechers-uno-model.jpeg"
+    ],
+    "tag": "All-day comfort"
+  },
+  {
+    "id": "p25",
+    "slug": "heymoments-wide-leg-tie-waist-pants",
+    "name": "Heymoments Wide Leg Tie-Waist Pants",
+    "brand": "Heymoments",
+    "category": "clothing",
+    "concerns": [
+      "comfort",
+      "breathable",
+      "everyday wear"
+    ],
+    "price": 29.99,
+    "currency": "CAD",
+    "budget": "$",
+    "description": "Lightweight, high-waisted wide leg pants with an adjustable tie waist and side pockets. Soft, breathable fabric for all-day comfort with an effortlessly chic look.",
+    "affiliateUrl": "https://amzn.to/45ofG7W",
+    "imageUrl": "https://stylebeauti.com/onboarding/heymoments-pants.jpeg",
+    "images": [
+      "https://stylebeauti.com/onboarding/heymoments-pants.jpeg",
+      "https://stylebeauti.com/onboarding/heymoments-pants-model.jpeg"
+    ],
+    "tag": "Comfy + Chic"
+  },
+  {
+    "id": "p26",
+    "slug": "swarovski-attract-trilogy-drop-earrings",
+    "name": "Attract Trilogy Crystal Drop Earrings",
+    "brand": "Swarovski",
+    "category": "accessories",
+    "concerns": [
+      "elegant",
+      "gift-idea",
+      "formal",
+      "everyday"
+    ],
+    "price": 119,
+    "currency": "CAD",
+    "budget": "$$",
+    "description": "Elegant drop earrings featuring three sparkling clear crystals in a rhodium-plated setting — timeless, refined, and perfect for both everyday wear and special occasions.",
+    "affiliateUrl": "https://amzn.to/49YIvcp",
+    "imageUrl": "https://stylebeauti.com/onboarding/swarovski-earrings.jpeg",
+    "images": [
+      "https://stylebeauti.com/onboarding/swarovski-earrings.jpeg",
+      "https://stylebeauti.com/onboarding/swarovski-earrings-model.jpeg"
+    ],
+    "tag": "Timeless Sparkle"
+  },
+  {
+    "id": "p27",
+    "slug": "aisicoo-pointed-toe-stiletto-pumps",
+    "name": "Pointed Toe Stiletto High Heel Pumps",
+    "brand": "Aisicoo",
+    "category": "clothing",
+    "concerns": [
+      "party",
+      "formal",
+      "evening"
+    ],
+    "price": 79.37,
+    "currency": "CAD",
+    "budget": "$",
+    "description": "Elegant slip-on stiletto pumps featuring a pointed toe and chic patchwork design, ideal for parties, events, and polished outfits.",
+    "affiliateUrl": "https://amzn.to/4pYqqkH",
+    "imageUrl": "https://stylebeauti.com/onboarding/aisicoo-heels.jpg",
+    "images": [
+      "https://stylebeauti.com/onboarding/aisicoo-heels.jpg",
+      "https://stylebeauti.com/onboarding/aisicoo-heels-model.png"
+    ],
+    "tag": "Elegant heels"
+  },
+  {
+    "id": "p29",
+    "slug": "dream-pairs-platform-mini-winter-boots",
+    "name": "DREAM PAIRS Platform Mini Winter Boots",
+    "brand": "DREAM PAIRS",
+    "category": "clothing",
+    "concerns": [
+      "warmth",
+      "winter",
+      "comfort",
+      "outdoor"
+    ],
+    "price": 54.99,
+    "currency": "CAD",
+    "budget": "$",
+    "description": "Cozy platform mini snow boots crafted in soft suede with plush faux-fur lining and a cushioned memory foam insole for warmth, comfort, and everyday winter wear.",
+    "affiliateUrl": "https://amzn.to/3ZAB5ak",
+    "imageUrl": "https://stylebeauti.com/onboarding/dreampairs-mini.jpeg",
+    "images": [
+      "https://stylebeauti.com/onboarding/dreampairs-mini.jpeg",
+      "https://stylebeauti.com/onboarding/dreampairs-mini-model.jpeg"
+    ],
+    "tag": "Winter essential"
+  },
+  {
+    "id": "p30",
+    "slug": "bellroy-tokyo-wonder-tote-15l",
+    "name": "Bellroy Tokyo Wonder Tote (15L)",
+    "brand": "Bellroy",
+    "category": "bags",
+    "concerns": [
+      "work essentials",
+      "laptop carry",
+      "travel",
+      "organization"
+    ],
+    "price": 199,
+    "currency": "CAD",
+    "budget": "$$",
+    "description": "A sleek everyday tote with smart internal organization, a padded 16-inch laptop sleeve, and a wide zip opening, crafted from durable water-resistant materials.",
+    "affiliateUrl": "https://amzn.to/3LLXCho",
+    "imageUrl": "https://stylebeauti.com/onboarding/bellroy-tokyo-laptop.jpeg",
+    "images": [
+      "https://stylebeauti.com/onboarding/bellroy-tokyo-laptop.jpeg",
+      "https://stylebeauti.com/onboarding/bellroy-tokyo-tote-model.jpeg"
+    ],
+    "tag": "Modern work tote"
+  },
+  {
+    "id": "p31",
+    "slug": "bellroy-toiletry-kit-plus",
+    "name": "Bellroy Toiletry Kit Plus",
+    "brand": "Bellroy",
+    "category": "bags",
+    "concerns": [
+      "travel",
+      "organization",
+      "toiletries",
+      "water-resistant"
+    ],
+    "price": 89,
+    "currency": "CAD",
+    "budget": "$$",
+    "description": "A spacious toiletry pouch with smart internal organization, a magnetic toothbrush shelf, and water-resistant materials—perfect for longer trips and larger essentials.",
+    "affiliateUrl": "https://amzn.to/4acQCTZ",
+    "imageUrl": "https://stylebeauti.com/onboarding/bellroy-toiletry-plus.jpeg",
+    "images": [
+      "https://stylebeauti.com/onboarding/bellroy-toiletry-plus.jpeg",
+      "https://stylebeauti.com/onboarding/bellroy-toiletry-plus-model.jpeg"
+    ],
+    "tag": "Travel essential"
+  },
+  {
+    "id": "p33",
+    "slug": "womens-chelsea-ankle-boots-winter-fur-lined",
+    "name": "Women's Chelsea Ankle Boots",
+    "brand": "Generic",
+    "category": "clothing",
+    "concerns": [
+      "cold-weather",
+      "slip-resistance",
+      "comfort"
+    ],
+    "price": 62.99,
+    "currency": "CAD",
+    "budget": "$$",
+    "description": "Waterproof winter Chelsea ankle boots with a smooth PU leather upper and warm faux fur lining. Designed for easy slip-on wear with elastic side panels and pull loops. Non-slip rubber sole provides stability and comfort for all-day wear in cold and wet conditions.",
+    "affiliateUrl": "https://amzn.to/4q8mbmU",
+    "imageUrl": "https://stylebeauti.com/onboarding/chelsea-boots-front.jpeg",
+    "images": [
+      "https://stylebeauti.com/onboarding/chelsea-boots-front.jpeg",
+      "https://stylebeauti.com/onboarding/chelsea-boots-model.jpeg"
+    ],
+    "tag": "Winter Chelsea Boots"
+  }
+]

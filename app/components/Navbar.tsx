@@ -59,13 +59,6 @@ import type { ReactNode } from "react";
 import { useState } from "react";
 import Button from "@/app/components/ui/Button";
 
-// const links = [
-//   { href: "/products", label: "Products" },
-//   { href: "/quiz", label: "Find my routine" },
-//   { href: "/products", label: "Browse" },
-//   { href: "/disclosure", label: "Disclosure" },
-//   { href: "/privacy", label: "Privacy" },
-// ];
 const links = [
   { href: "/products", label: "Products" },
   { href: "/quiz", label: "Find my routine" },
