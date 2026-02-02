@@ -393,30 +393,7 @@
     ],
     "tag": "Day to night"
   },
-  {
-    "id": "p18",
-    "slug": "dream-pairs-platform-mini-boots",
-    "name": "DREAM PAIRS Platform Mini Winter Boots",
-    "brand": "DREAM PAIRS",
-    "category": "clothing",
-    "concerns": [
-      "warmth",
-      "comfort",
-      "winter wear",
-      "slip resistance"
-    ],
-    "price": 54.99,
-    "currency": "CAD",
-    "budget": "$",
-    "description": "Cozy platform mini boots crafted in soft suede with plush faux-fur lining, designed to keep you warm, comfortable, and stylish all winter long.",
-    "affiliateUrl": "https://amzn.to/3ZAB5ak",
-    "imageUrl": "https://stylebeauti.com/onboarding/dreampairs-mini.jpeg",
-    "images": [
-      "https://stylebeauti.com/onboarding/dreampairs-mini.jpeg",
-      "https://stylebeauti.com/onboarding/dreampairs-mini-model.jpeg"
-    ],
-    "tag": "Winter essential"
-  },
+
   {
     "id": "p19",
     "slug": "clinique-even-better-makeup-foundation",
@@ -490,7 +467,7 @@
     "tag": "Eyeshadow + Primer"
   },
   {
-    "id": "p20",
+    "id": "p22",
     "slug": "prettygarden-wide-leg-dress-pants",
     "name": "PRETTYGARDEN Womens Wide Leg Dress Pants",
     "brand": "PRETTYGARDEN",
@@ -514,7 +491,7 @@
     "tag": "Business casual"
   },
   {
-    "id": "p22",
+    "id": "p23",
     "slug": "michael-kors-elyse-high-pump",
     "name": "Michael Kors Elyse High Pump",
     "brand": "Michael Kors",
@@ -537,7 +514,7 @@
     "tag": "Modern glamour"
   },
   {
-    "id": "p23",
+    "id": "p24",
     "slug": "osprey-arcane-large-day-backpack",
     "name": "Osprey Arcane Large Day Backpack",
     "brand": "Osprey",
@@ -561,7 +538,7 @@
     "tag": "Everyday carry"
   },
   {
-    "id": "p24",
+    "id": "p25",
     "slug": "skechers-uno-stand-on-air-womens",
     "name": "Skechers Uno – Stand On Air Sneakers",
     "brand": "Skechers",
@@ -584,7 +561,7 @@
     "tag": "All-day comfort"
   },
   {
-    "id": "p25",
+    "id": "p26",
     "slug": "heymoments-wide-leg-tie-waist-pants",
     "name": "Heymoments Wide Leg Tie-Waist Pants",
     "brand": "Heymoments",
@@ -607,7 +584,7 @@
     "tag": "Comfy + Chic"
   },
   {
-    "id": "p26",
+    "id": "p27",
     "slug": "swarovski-attract-trilogy-drop-earrings",
     "name": "Attract Trilogy Crystal Drop Earrings",
     "brand": "Swarovski",
@@ -631,7 +608,7 @@
     "tag": "Timeless Sparkle"
   },
   {
-    "id": "p27",
+    "id": "p28",
     "slug": "aisicoo-pointed-toe-stiletto-pumps",
     "name": "Pointed Toe Stiletto High Heel Pumps",
     "brand": "Aisicoo",
@@ -665,7 +642,7 @@
       "comfort",
       "outdoor"
     ],
-    "price": 54.99,
+    "price": 59.99,
     "currency": "CAD",
     "budget": "$",
     "description": "Cozy platform mini snow boots crafted in soft suede with plush faux-fur lining and a cushioned memory foam insole for warmth, comfort, and everyday winter wear.",
