@@ -55,14 +55,21 @@
 "use client";
 
 import Link from "next/link";
-import type { ReactNode } from "react";
+import Image from "next/image";
 import { useState } from "react";
 import Button from "@/app/components/ui/Button";
 
-const links = [
+type NavLink = {
+  href: string;
+  label: string;
+  variant?: "accent";
+  size?: "small";
+};
+
+const links: NavLink[] = [
   { href: "/products", label: "Products" },
   { href: "/quiz", label: "Find my routine" },
-  { href: "/products", label: "Browse", variant: "accent" }, // 👈
+  { href: "/products", label: "Browse", variant: "accent" },
   { href: "/disclosure", label: "Disclosure", size: "small" },
   { href: "/privacy", label: "Privacy", size: "small" },
 ];
@@ -75,9 +82,17 @@ export default function Navbar() {
       <div className="mx-auto max-w-6xl px-6 py-4 flex items-center justify-between gap-4">
         {/* Brand */}
         <Link href="/" className="flex items-center gap-3">
-          <div className="h-10 w-10 rounded-2xl bg-[rgb(var(--accent-soft))] flex items-center justify-center font-bold">
-            SB
+          <div className="h-10 w-10 rounded-2xl bg-[rgb(var(--accent-soft))] flex items-center justify-center overflow-hidden">
+            {/* Put your icon here: public/logo.png */}
+            <Image
+              src="/logo.png"
+              alt="Style & Beauty"
+              width={40}
+              height={40}
+              priority
+            />
           </div>
+
           <div className="leading-tight">
             <div className="font-semibold">Style &amp; Beauty</div>
             <div className="text-xs text-[var(--muted)]">Trusted picks • fast</div>
@@ -86,15 +101,31 @@ export default function Navbar() {
 
         {/* Desktop nav */}
         <nav className="hidden md:flex items-center gap-6 text-sm">
-          {links.map((l) => (
-            <Link
-              key={l.href + l.label}
-              href={l.href}
-              className="text-[var(--muted)] hover:text-[var(--text)] transition"
-            >
-              {l.label}
-            </Link>
-          ))}
+          {links.map((l) => {
+            // Accent button link
+            if (l.variant === "accent") {
+              return (
+                <Link key={l.href + l.label} href={l.href} className="ml-1">
+                  {/* No size prop here (avoids TS error). We control size via className. */}
+                  <Button variant="accent" className="px-4 py-2 text-sm rounded-xl">
+                    {l.label}
+                  </Button>
+                </Link>
+              );
+            }
+
+            // Normal links (small ones for disclosure/privacy)
+            const cls =
+              l.size === "small"
+                ? "text-xs text-[var(--muted)] hover:text-[var(--text)] transition"
+                : "text-[var(--muted)] hover:text-[var(--text)] transition";
+
+            return (
+              <Link key={l.href + l.label} href={l.href} className={cls}>
+                {l.label}
+              </Link>
+            );
+          })}
         </nav>
 
         {/* Mobile button */}
@@ -129,3 +160,4 @@ export default function Navbar() {
     </header>
   );
 }
+

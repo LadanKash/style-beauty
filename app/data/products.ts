@@ -86,7 +86,7 @@ export const products: Product[] = [
     name: "HAIRtamin Vegan Hair Gummies",
     category: "haircare",
     concerns: ["frizz", "shine", "breakage", "thinning", "scalp"],
-    price: 106.00,
+    price: 36.00,
   currency: "CAD",
   // budget: "$$$",
   budget: budgetFromPrice(106.00),
@@ -394,7 +394,7 @@ export const products: Product[] = [
 
 
 {
-  id: "p20",
+  id: "p22",
   slug: "prettygarden-wide-leg-dress-pants",
   name: "PRETTYGARDEN Womens Wide Leg Dress Pants",
   brand: "PRETTYGARDEN",
@@ -413,7 +413,7 @@ export const products: Product[] = [
 },
 
 {
-  id: "p22",
+  id: "p23",
   slug: "michael-kors-elyse-high-pump",
   name: "Michael Kors Elyse High Pump",
   brand: "Michael Kors",
@@ -431,7 +431,7 @@ export const products: Product[] = [
   affiliateUrl: "https://amzn.to/4pVouJy"
 },
 {
-  id: "p23",
+  id: "p24",
   slug: "osprey-arcane-large-day-backpack",
   name: "Osprey Arcane Large Day Backpack",
   brand: "Osprey",
@@ -449,7 +449,7 @@ export const products: Product[] = [
   affiliateUrl: "https://amzn.to/4rb97xI"
 },
 {
-  id: "p24",
+  id: "p25",
   slug: "skechers-uno-stand-on-air-womens",
   name: "Skechers Uno – Stand On Air Sneakers",
   brand: "Skechers",
@@ -467,7 +467,7 @@ export const products: Product[] = [
   affiliateUrl: "https://amzn.to/4abzyh4"
 },
 {
-  id: "p25",
+  id: "p26",
   slug: "heymoments-wide-leg-tie-waist-pants",
   name: "Heymoments Wide Leg Tie-Waist Pants",
   brand: "Heymoments",
@@ -486,7 +486,7 @@ export const products: Product[] = [
   affiliateUrl: "https://amzn.to/45ofG7W"
 },
 {
-  id: "p26",
+  id: "p27",
   slug: "swarovski-attract-trilogy-drop-earrings",
   name: "Attract Trilogy Crystal Drop Earrings",
   brand: "Swarovski",
@@ -504,7 +504,7 @@ export const products: Product[] = [
   affiliateUrl: "https://amzn.to/49YIvcp"
 },
 {
-  id: "p27",
+  id: "p28",
   slug: "aisicoo-pointed-toe-stiletto-pumps",
   name: "Pointed Toe Stiletto High Heel Pumps",
   brand: "Aisicoo",
@@ -583,7 +583,7 @@ export const products: Product[] = [
 },
 
 {
-  id: "p33",
+  id: "p32",
   slug: "womens-chelsea-ankle-boots-winter-fur-lined",
   name: "Women's Chelsea Ankle Boots",
   brand: "Generic",
