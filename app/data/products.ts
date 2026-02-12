@@ -1326,7 +1326,7 @@ images: [
     price: 159.73, 
   currency: "CAD",
   budget: "$$$",
-  category: "accessories",
+  category: "bags",
   concerns: ["luxury-style", "everyday-carry", "evening-bag", "gift-idea"],
   tag: "Convertible Leather Shoulder Bag",
   images: [

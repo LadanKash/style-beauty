@@ -37,6 +37,22 @@ export const metadata: Metadata = {
   },
 };
 
+// export default function RootLayout({
+//   children,
+// }: {
+//   children: React.ReactNode;
+// }) {
+//   return (
+//     <html lang="en">
+//       <body
+//         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+//       >
+//         <Navbar />
+//         {children}
+//       </body>
+//     </html>
+//   );
+// }
 export default function RootLayout({
   children,
 }: {
@@ -44,12 +60,21 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
-        <Navbar />
-        {children}
-      </body>
+      <body className={`${geistSans.variable} ${geistMono.variable} antialiased min-h-screen flex flex-col`}>
+  <Navbar />
+  <main className="flex-1">{children}</main>
+
+  <footer className="border-t py-8 text-sm text-center text-[var(--muted)]">
+    <div className="space-x-4">
+      <a href="/privacy" className="hover:underline">Privacy Policy</a>
+      <span>|</span>
+      <a href="/disclosure" className="hover:underline">Affiliate Disclosure</a>
+      <span>|</span>
+      <a href="/terms" className="hover:underline">Terms of Service</a>
+    </div>
+  </footer>
+</body>
+
     </html>
   );
 }
