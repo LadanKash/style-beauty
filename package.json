@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "export:products": "tsx scripts/export-products.ts"
+    "export:products": "tsx scripts/export-products.ts",
+   "export:looks": "tsx scripts/exportLooks.ts"
 
   },
   "dependencies": {

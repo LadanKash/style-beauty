@@ -1,0 +1,52 @@
+// app/data/looks.ts
+export type LookItem = { productId: string; label?: string };
+
+export type Look = {
+  id: string;
+  title: string;
+  subtitle?: string;
+  imageUrl: string;
+  items: LookItem[];
+};
+
+export const LOOKS: Look[] = [
+  {
+    id: "clinique-glow",
+    title: "Clinique Glow Routine",
+    subtitle: "Hydration + soft makeup",
+    imageUrl: "https://stylebeauti.com/onboarding/clinique-glow.jpeg",
+    items: [
+      { productId: "p2", label: "Firming Treatment" },
+      { productId: "p19", label: "Uneven tone cream" },
+      { productId: "p20", label: "Hydration Cream" },
+      { productId: "p48", label: "Hydration Lipstick" },
+      { productId: "p3", label: "Eye Brightening" },
+    ],
+  },
+  {
+    id: "winter-fashion-1",
+    title: "Winter Outfit",
+    subtitle: "Cozy layers + accessories",
+    imageUrl: "https://stylebeauti.com/onboarding/winter-fashion-1.jpeg",
+    items: [
+      { productId: "p16", label: "Michael Kors Bags" },
+      { productId: "p31", label: "Winter Chelsea Boots" },
+      { productId: "p32", label: "Ray-Ban Sunglasses" },
+      { productId: "p43", label: "Fossil women's Watch" },
+      { productId: "p11", label: "Calvin Klein Wool Blend Coat" },
+    ],
+  },
+
+    {
+    id: "winter-fashion-2",
+    title: "Winter Outfit",
+    subtitle: "Cozy layers + accessories",
+    imageUrl: "https://stylebeauti.com/onboarding/winter-fashion-2.png",
+    items: [
+      { productId: "p15", "label": "Necklace Swarovski" },
+      { productId: "p17", "label": " Kate Spade Madison Bag" },
+      { productId: "p22", "label": "Womens Pants" },
+      { productId: "p23", "label": "Mickael Kors Shoes" }
+    ],
+  },
+];
