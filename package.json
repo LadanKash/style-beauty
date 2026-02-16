@@ -2,15 +2,15 @@
   "name": "stylebeauty",
   "version": "0.1.0",
   "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "eslint",
-    "export:products": "tsx scripts/export-products.ts",
-   "export:looks": "tsx scripts/exportLooks.ts"
+"scripts": {
+  "dev": "next dev",
+  "export:products": "tsx scripts/export-products.ts",
+  "export:looks": "tsx scripts/exportLooks.ts",
+  "build": "npm run export:products && npm run export:looks && next build",
+  "start": "next start",
+  "lint": "eslint"
+},
 
-  },
   "dependencies": {
     "next": "16.1.1",
     "react": "19.2.3",
