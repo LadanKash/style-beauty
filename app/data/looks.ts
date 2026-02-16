@@ -26,7 +26,7 @@ export const LOOKS: Look[] = [
   {
     id: "winter-fashion-1",
     title: "Winter Outfit",
-    subtitle: "Cozy layers + accessories",
+    subtitle: "Outfit inspiration",
     imageUrl: "https://stylebeauti.com/onboarding/winter-fashion-1.jpeg",
     items: [
       { productId: "p16", label: "Michael Kors Bags" },
@@ -40,7 +40,7 @@ export const LOOKS: Look[] = [
      {
     id: "winter-fashion-3",
     title: "Outfit Ideas",
-    subtitle: "Cozy layers + accessories",
+    subtitle: "Outfit inspiration + accessories",
     imageUrl: "https://stylebeauti.com/onboarding/winter-fashion-3.png",
     items: [
       { productId: "p66", "label": "Chunky Heel Boots" },
@@ -52,10 +52,23 @@ export const LOOKS: Look[] = [
     ],
   },
 
+  //   {
+  //   id: "winter-fashion-2",
+  //   title: "Winter Outfit",
+  //   subtitle: "Cozy layers + accessories",
+  //   imageUrl: "https://stylebeauti.com/onboarding/winter-fashion-2.png",
+  //   items: [
+  //     { productId: "p15", "label": "Necklace Swarovski" },
+  //     { productId: "p17", "label": " Kate Spade Madison Bag" },
+  //     { productId: "p22", "label": "Womens Pants" },
+  //     { productId: "p23", "label": "Mickael Kors Shoes" }
+  //   ],
+  // },
+
     {
     id: "winter-fashion-2",
     title: "Winter Outfit",
-    subtitle: "Cozy layers + accessories",
+    subtitle: "Outfit inspiration + accessories",
     imageUrl: "https://stylebeauti.com/onboarding/winter-fashion-2.png",
     items: [
       { productId: "p15", "label": "Necklace Swarovski" },
@@ -68,7 +81,7 @@ export const LOOKS: Look[] = [
   {
     id: "winter-fashion-5",
     title: "Outfit Ideas",
-    subtitle: "Cozy layers + accessories",
+    subtitle: "Outfit inspiration + accessories",
     imageUrl: "https://stylebeauti.com/onboarding/winter-fashion-5.png",
     items: [
       { productId: "p67", "label": "Women's Jeans" },
