@@ -1053,27 +1053,26 @@ images: [
   affiliateUrl: "https://amzn.to/4kqEpyC"
 },
 
-// {
-//   id: "p51",
-//   slug: "arach-cloz-womens-wool-blend-spring-sweater",
-//   name: "Arach&Cloz Women's Wool Blend Spring Sweater",
-//   brand: "Arach&Cloz",
-//   description:
-//     "Soft and breathable wool-blend pullover sweater designed with a classic V-neck and relaxed loose fit. Lightweight anti-pilling fabric resists wrinkles and provides comfortable everyday wear, perfect for fall and winter styling.",
-//   price: null,
-//   showPriceCTA: true,
-//     // price: 43.00, 
-//   currency: "CAD",
-//   budget: "$$",
-//   category: "clothing",
-//   concerns: ["comfort", "cold-weather", "everyday-style"],
-//   tag: "Wool Blend Sweater",
-// images: [
-//     "/onboarding/wool-blend-spring-sweater.jpg",
-//     "/onboarding/wool-blend-spring-sweater-model.jpg"
-//   ],
-//   affiliateUrl: "https://amzn.to/3MmKcIK"
-// },
+{
+  id: "p51",
+  slug: "arach-cloz-womens-wool-blend-spring-sweater",
+  name: "Arach&Cloz Women's Wool Blend Spring Sweater",
+  brand: "Arach&Cloz",
+  description:
+    "Soft and breathable wool-blend pullover sweater designed with a classic V-neck and relaxed loose fit. Lightweight anti-pilling fabric resists wrinkles and provides comfortable everyday wear, perfect for fall and winter styling.",
+  price: 37.39,
+  showPriceCTA: true,
+  currency: "CAD",
+  budget: "$$",
+  category: "clothing",
+  concerns: ["comfort", "cold-weather", "everyday-style"],
+  tag: "Wool Blend Sweater",
+images: [
+    "/onboarding/wool-blend-spring-sweater.jpg",
+    "/onboarding/wool-blend-spring-sweater-model.jpeg"
+  ],
+  affiliateUrl: "https://amzn.to/3MmKcIK"
+},
 
 {
   id: "p52",
@@ -1092,7 +1091,7 @@ images: [
   tag: "Wool Blend Sweater",
 images: [
     "/onboarding/arach-vneck.jpeg",
-    "/onboarding/arach-vneck-model.jpg"
+    "/onboarding/arach-vneck-model.jpeg"
   ],
   affiliateUrl: "https://amzn.to/3O922Q3"
 },
@@ -1113,7 +1112,7 @@ images: [
   tag: "Crew Neck Wool Blend Sweater",
   images: [
     "/onboarding/arach-crewneck-sweater-front.jpg",
-    "/onboarding/arach-crewneck-sweater-model.png"
+    "/onboarding/arach-crewneck-sweater-model.jpeg"
   ],
   affiliateUrl: "https://amzn.to/4rHZ3wJ"
 },
@@ -1172,7 +1171,7 @@ images: [
 //   brand: "Generic",
 //   description:
 //     "Elegant slim-fit midi dress featuring a classic crew neckline, long sleeves, and flattering high-waisted peplum detail. Designed with a concealed back zipper and body-hugging silhouette for a polished professional look. Perfect for office wear, business meetings, interviews, church, or formal casual occasions.",
-//   price: null,
+//   price: 69.99,
 //   showPriceCTA: true,
 //     // price: 0, 
 //   currency: "CAD",
@@ -1355,7 +1354,126 @@ images: [
     "/onboarding/clinique-pop-rose-lipstick-swatch.jpg"
   ],
   affiliateUrl: "https://amzn.to/4kqb8Ec"
-}
+},
+{
+  id: "p65",
+  slug: "womens-long-winter-puffer-jacket-insulated-water-repellent",
+  name: "Women’s Long Winter Puffer Jacket",
+  brand: "Generic",
+  description:
+    "Warm and stylish long puffer jacket designed for cold weather protection. Made with high-tech insulation to block cold air while maintaining lightweight comfort. Features a stand collar, windproof cuffs, and detachable hood for extra warmth. Water and stain-repellent fabric protects against light rain and spills. Durable, recyclable polyester construction with multiple secure pockets makes this jacket perfect for everyday winter wear and outdoor activities.",
 
+  showPriceCTA: true,
+  price: 56.95,
+  currency: "CAD",
+  budget: "$$",
+  category: "clothing",
+  concerns: ["cold-weather", "water-repellent", "outdoor-comfort", "winter-style"],
+  tag: "Winter Puffer Jacket",
+
+  images: [
+    "/onboarding/winter-puffer-jacket-product.jpg",
+    "/onboarding/winter-puffer-jacket-model.jpg"
+  ],
+
+  affiliateUrl: "https://amzn.to/4rmjrUh",
+
+},
+
+{
+  id: "p66",
+  slug: "pointed-toe-knee-high-faux-leather-chunky-heel-boots",
+  name: "Women’s Pointed Toe Knee-High Chunky Heel Boots",
+  brand: "Generic",
+  description:
+    "Fashion-forward knee-high boots designed with a sleek pointed toe and streamlined silhouette to visually elongate the legs. Crafted from soft faux leather with a breathable lining and full-length side zipper for easy wear. The chunky block heel provides stability and comfort, while the non-slip rubber outsole ensures confident steps. Stylish and versatile, these boots pair effortlessly with dresses, skirts, or jeans for any occasion.",
+
+  showPriceCTA: true,
+  price: 79.99,
+  currency: "CAD",
+  budget: "$$",
+  category: "clothing",
+  concerns: ["style-elevation", "comfort-heel", "easy-wear", "versatile-outfit"],
+  tag: "Pointed Toe Knee-High Boots",
+
+  images: [
+    "/onboarding/pointed-knee-high-boots-product.jpg",
+    "/onboarding/pointed-knee-high-boots-model.jpg"
+  ],
+
+  affiliateUrl: "https://amzn.to/4qCfwRW",
+
+},
+{
+  id: "p67",
+  slug: "wrangler-womens-high-rise-fierce-flare-jeans-stretch-32-inseam",
+  name: "Wrangler Women’s High Rise Fierce Flare Jeans",
+  brand: "Wrangler",
+  description:
+    "High-rise flare jeans designed to flatter with a curve-hugging fit through the seat and thigh, finished with a contoured waistband for a smooth silhouette. The back rise sits slightly higher for extra coverage while the front is lower for comfort when sitting. Made from authentic cotton-rich denim with stretch for all-day comfort. Finished with Wrangler’s iconic ‘W’ back pocket stitching and leather patch, plus classic five-pocket styling.",
+
+  showPriceCTA: true,
+  price: 73.38,
+  currency: "CAD",
+  budget: "$$",
+  category: "clothing",
+  concerns: ["flattering-fit", "comfort-stretch", "high-rise", "everyday-denim"],
+  tag: "High-Rise Flare Jeans",
+
+  images: [
+    "/onboarding/wrangler-fierce-flare-product.jpg",
+    "/onboarding/wrangler-fierce-flare-model.jpg"
+  ],
+
+  affiliateUrl: "https://amzn.to/4qKdZcF",
+
+},
+{
+  id: "p68",
+  slug: "ugg-tasman-ii-slipper-chestnut-suede-shearling",
+  name: "UGG Tasman II Slipper",
+  brand: "UGG",
+  description:
+    "Premium suede slip-on slippers designed for everyday comfort with a cozy sheepskin lining and lightweight cushioning. Features signature UGGbraid collar detailing and a durable EVA outsole for indoor and outdoor wear. Made with genuine dyed sheep or lamb fur for warmth and softness. Stylish, comfortable, and perfect for lounging or casual outings.",
+
+  showPriceCTA: true,
+  price: 149.96,
+  currency: "CAD",
+  budget: "$$$",
+  category: "clothing",
+  concerns: ["comfort", "cold-weather", "cozy-style", "indoor-outdoor-wear"],
+  tag: "Shearling Slippers",
+
+  images: [
+    "/onboarding/ugg-tasman-slipper-product.jpg",
+    "/onboarding/ugg-tasman-slipper-model.jpg"
+  ],
+
+  affiliateUrl: "https://amzn.to/4rSBaT6",
+},
+{
+  id: "p69",
+  slug: "athlefit-platform-knee-high-boots-square-toe-black",
+  name: "Athlefit Platform Knee High Chunky Boots",
+  brand: "Athlefit",
+  description:
+    "Fashion-forward knee high platform boots designed with a modern square toe and chunky heel for stylish height and comfort. Made from flexible PU leather with a side zipper for easy wear and a snug fit. Durable sole provides all-day comfort, making these boots perfect for everyday wear, work, travel, or special occasions. Versatile design transitions effortlessly from casual outfits to elegant looks.",
+  
+  showPriceCTA: true,
+  price: 79.99,
+  currency: "CAD",
+  budget: "$$",
+  category: "clothing",
+  concerns: ["comfort", "winter-style", "everyday-wear", "fashion-boots"],
+  tag: "Platform Knee High Boots",
+
+  images: [
+    "/onboarding/athlefit-knee-high-boots-product.jpg",
+    "/onboarding/athlefit-knee-high-boots-model.jpg"
+  ],
+
+  affiliateUrl: "https://amzn.to/4bXquxL",
+
+}
 
 ]

@@ -25,4 +25,4 @@ const output = LOOKS.map((l: Look) => ({
 mkdirSync(join(process.cwd(), "public"), { recursive: true });
 writeFileSync(join(process.cwd(), "public", "looks.json"), JSON.stringify(output, null, 2), "utf8");
 
-console.log("✅ Wrote", output.length, "looks to public/looks.json");
+console.log(" Wrote", output.length, "looks to public/looks.json");

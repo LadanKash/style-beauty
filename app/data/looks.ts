@@ -37,6 +37,21 @@ export const LOOKS: Look[] = [
     ],
   },
 
+     {
+    id: "winter-fashion-3",
+    title: "Outfit Ideas",
+    subtitle: "Cozy layers + accessories",
+    imageUrl: "https://stylebeauti.com/onboarding/winter-fashion-3.png",
+    items: [
+      { productId: "p66", "label": "Chunky Heel Boots" },
+      { productId: "p52", "label": "Women's Wool Blend V-Neck Sweater" },    
+      { productId: "p35", "label": " Ray-Ban Sunglasses" },
+      { productId: "p41", "label": "Citizen Ladies Watch" },
+       { productId: "p12", "label": "Calvin Klein Jacket" },  
+      { productId: "p10", "label": "Mickael Kors Bag" }
+    ],
+  },
+
     {
     id: "winter-fashion-2",
     title: "Winter Outfit",
@@ -49,4 +64,19 @@ export const LOOKS: Look[] = [
       { productId: "p23", "label": "Mickael Kors Shoes" }
     ],
   },
+
+  {
+    id: "winter-fashion-5",
+    title: "Outfit Ideas",
+    subtitle: "Cozy layers + accessories",
+    imageUrl: "https://stylebeauti.com/onboarding/winter-fashion-5.png",
+    items: [
+      { productId: "p67", "label": "Women's Jeans" },
+      { productId: "p65", "label": " Women’s Long Winter Puffer Jacket" },
+      { productId: "p53", "label": "Women's Sweater" }, 
+      { productId: "p63", "label": " Womens Bag" },
+      { productId: "p64", "label": "Clinique Lipstick" },
+      { productId: "p40", "label": "Ray-Ban Sunglasses" }
+    ],
+  }
 ];

@@ -48,4 +48,4 @@ const filePath = join(process.cwd(), "public", "products.json");
 
 writeFileSync(filePath, JSON.stringify(output, null, 2), "utf8");
 
-console.log("✅ Wrote", output.length, "products to", filePath);
+console.log(" Wrote", output.length, "products to", filePath);

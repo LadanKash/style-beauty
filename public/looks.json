@@ -56,30 +56,6 @@
     ]
   },
   {
-    "id": "winter-fashion-2",
-    "title": "Winter Outfit",
-    "subtitle": "Cozy layers + accessories",
-    "imageUrl": "https://stylebeauti.com/onboarding/winter-fashion-2.png",
-    "items": [
-      {
-        "productId": "p15",
-        "label": "Necklace Swarovski"
-      },
-      {
-        "productId": "p17",
-        "label": " Kate Spade Madison Bag"
-      },
-      {
-        "productId": "p22",
-        "label": "Womens Pants"
-      },
-      {
-        "productId": "p23",
-        "label": "Mickael Kors Shoes"
-      }
-    ]
-  },
-  {
     "id": "winter-fashion-3",
     "title": "Outfit Ideas",
     "subtitle": "Cozy layers + accessories",
@@ -108,6 +84,30 @@
       {
         "productId": "p10",
         "label": "Mickael Kors Bag"
+      }
+    ]
+  },
+  {
+    "id": "winter-fashion-2",
+    "title": "Winter Outfit",
+    "subtitle": "Cozy layers + accessories",
+    "imageUrl": "https://stylebeauti.com/onboarding/winter-fashion-2.png",
+    "items": [
+      {
+        "productId": "p15",
+        "label": "Necklace Swarovski"
+      },
+      {
+        "productId": "p17",
+        "label": " Kate Spade Madison Bag"
+      },
+      {
+        "productId": "p22",
+        "label": "Womens Pants"
+      },
+      {
+        "productId": "p23",
+        "label": "Mickael Kors Shoes"
       }
     ]
   },
