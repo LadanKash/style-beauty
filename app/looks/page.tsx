@@ -43,11 +43,11 @@ export default async function LooksPage() {
               className="bg-white rounded-3xl overflow-hidden border border-gray-200 hover:shadow-md transition"
             >
               {/* <img src={l.imageUrl} alt={l.title} className="w-full h-52 object-cover" /> */}
- <div className="w-full aspect-[4/3] overflow-hidden">
+ <div className="w-full aspect-[4/3] bg-gray-50 p-4">
   <img
     src={l.imageUrl}
     alt={l.title}
-    className="w-full h-full object-cover object-top"
+    className="w-full h-full object-contain"
   />
 </div>
 
