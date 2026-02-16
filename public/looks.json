@@ -86,15 +86,15 @@
     "imageUrl": "https://stylebeauti.com/onboarding/winter-fashion-3.png",
     "items": [
       {
-        "productId": "p67",
-        "label": "High Chunky Bootss"
+        "productId": "p66",
+        "label": "Chunky Heel Boots"
       },
       {
         "productId": "p52",
         "label": "Women's Wool Blend V-Neck Sweater"
       },
       {
-        "productId": "p34",
+        "productId": "p35",
         "label": " Ray-Ban Sunglasses"
       },
       {
@@ -112,7 +112,7 @@
     ]
   },
   {
-    "id": "winter-fashion-4",
+    "id": "winter-fashion-5",
     "title": "Outfit Ideas",
     "subtitle": "Cozy layers + accessories",
     "imageUrl": "https://stylebeauti.com/onboarding/winter-fashion-5.png",
