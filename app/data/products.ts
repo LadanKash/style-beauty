@@ -8,6 +8,7 @@ export type Product = {
     | "skincare"
     | "haircare"
     | "bags"
+    | "shoes"
     | "accessories"
     | "clothing"
     | "mens-fashion";
@@ -187,7 +188,7 @@ export const products: Product[] = [
   slug: "winter-snow-ankle-boots",
   brand: "Generic",
   name: "Winter Snow Ankle Boots",
-  category: "clothing",
+  category: "shoes",
   concerns: ["winter", "warmth", "everyday"],
   
   showPriceCTA: true,
@@ -259,7 +260,7 @@ export const products: Product[] = [
   slug: "keen-waterproof-winter-boots",
   brand: "KEEN",
   name: "KEEN Waterproof Winter Boots",
-  category: "clothing",
+  category: "shoes",
   concerns: ["winter", "outdoor", "warmth"],
   
   showPriceCTA: true,
@@ -362,7 +363,7 @@ export const products: Product[] = [
   price: 54.99,
   currency: "CAD",
   budget: "$",
-  category: "clothing",
+  category: "shoes",
   concerns: ["warmth", "comfort", "winter wear", "slip resistance"],
   tag: "Winter essential",
   images: [
@@ -472,7 +473,7 @@ export const products: Product[] = [
   price: 129.33,
   currency: "CAD",
   budget: "$$",
-  category: "clothing",
+  category: "shoes",
   concerns: ["elegance", "formal wear", "evening style"],
   tag: "Modern glamour",
   images: [
@@ -512,7 +513,7 @@ export const products: Product[] = [
   price: 67.99,
   currency: "CAD",
   budget: "$$",
-  category: "clothing",
+  category: "shoes",
   concerns: ["walking", "comfort", "everyday wear"],
   tag: "All-day comfort",
   images: [
@@ -573,7 +574,7 @@ export const products: Product[] = [
   price: 79.37,
   currency: "CAD",
   budget: "$",
-  category: "clothing",
+  category: "shoes",
   concerns: ["party", "formal", "evening"],
   tag: "Elegant heels",
   images: [
@@ -658,7 +659,7 @@ export const products: Product[] = [
     price: 62.99,
   currency: "CAD",
   budget: "$$",
-  category: "clothing",
+  category: "shoes",
   concerns: ["cold-weather", "slip-resistance", "comfort"],
   tag: "Winter Chelsea Boots",
   images: [
@@ -1130,7 +1131,7 @@ images: [
     price: 103.42,
   currency: "CAD",
   budget: "$$$",
-  category: "clothing",
+  category: "shoes",
   concerns: ["comfort", "dress-style", "everyday-wear"],
   tag: "Heeled Dress Sandals",
 images: [
@@ -1241,7 +1242,7 @@ images: [
     price: 32.99, 
   currency: "CAD",
   budget: "$$",
-  category: "clothing",
+  category: "shoes",
   concerns: ["comfort", "indoor-wear", "anti-slip", "cold-weather"],
   tag: "Memory Foam House Slippers",
   images: [
@@ -1392,7 +1393,7 @@ images: [
   price: 79.99,
   currency: "CAD",
   budget: "$$",
-  category: "clothing",
+  category: "shoes",
   concerns: ["style-elevation", "comfort-heel", "easy-wear", "versatile-outfit"],
   tag: "Pointed Toe Knee-High Boots",
 
@@ -1440,7 +1441,7 @@ images: [
   price: 149.96,
   currency: "CAD",
   budget: "$$$",
-  category: "clothing",
+  category: "shoes",
   concerns: ["comfort", "cold-weather", "cozy-style", "indoor-outdoor-wear"],
   tag: "Shearling Slippers",
 
@@ -1463,7 +1464,7 @@ images: [
   price: 79.99,
   currency: "CAD",
   budget: "$$",
-  category: "clothing",
+  category: "shoes",
   concerns: ["comfort", "winter-style", "everyday-wear", "fashion-boots"],
   tag: "Platform Knee High Boots",
 

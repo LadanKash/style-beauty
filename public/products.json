@@ -199,7 +199,7 @@
     "slug": "winter-snow-ankle-boots",
     "name": "Winter Snow Ankle Boots",
     "brand": "Generic",
-    "category": "clothing",
+    "category": "shoes",
     "concerns": [
       "winter",
       "warmth",
@@ -295,7 +295,7 @@
     "slug": "keen-waterproof-winter-boots",
     "name": "KEEN Waterproof Winter Boots",
     "brand": "KEEN",
-    "category": "clothing",
+    "category": "shoes",
     "concerns": [
       "winter",
       "outdoor",
@@ -415,7 +415,7 @@
     "slug": "dream-pairs-platform-mini-boots",
     "name": "DREAM PAIRS Platform Mini Winter Boots",
     "brand": "DREAM PAIRS",
-    "category": "clothing",
+    "category": "shoes",
     "concerns": [
       "warmth",
       "comfort",
@@ -540,7 +540,7 @@
     "slug": "michael-kors-elyse-high-pump",
     "name": "Michael Kors Elyse High Pump",
     "brand": "Michael Kors",
-    "category": "clothing",
+    "category": "shoes",
     "concerns": [
       "elegance",
       "formal wear",
@@ -589,7 +589,7 @@
     "slug": "skechers-uno-stand-on-air-womens",
     "name": "Skechers Uno – Stand On Air Sneakers",
     "brand": "Skechers",
-    "category": "clothing",
+    "category": "shoes",
     "concerns": [
       "walking",
       "comfort",
@@ -662,7 +662,7 @@
     "slug": "aisicoo-pointed-toe-stiletto-pumps",
     "name": "Pointed Toe Stiletto High Heel Pumps",
     "brand": "Aisicoo",
-    "category": "clothing",
+    "category": "shoes",
     "concerns": [
       "party",
       "formal",
@@ -736,7 +736,7 @@
     "slug": "womens-chelsea-ankle-boots-winter-fur-lined",
     "name": "Women's Chelsea Ankle Boots",
     "brand": "Generic",
-    "category": "clothing",
+    "category": "shoes",
     "concerns": [
       "cold-weather",
       "slip-resistance",
@@ -1216,7 +1216,7 @@
     "slug": "calvin-klein-rowena-square-toe-heeled-sandal",
     "name": "Calvin Klein Rowena Square Toe Heeled Sandal",
     "brand": "Calvin Klein",
-    "category": "clothing",
+    "category": "shoes",
     "concerns": [
       "comfort",
       "dress-style",
@@ -1315,7 +1315,7 @@
     "slug": "veracosy-mens-corduroy-memory-foam-slip-on-slippers",
     "name": "VeraCosy Men's Corduroy Memory Foam Slip-On Slippers",
     "brand": "VeraCosy",
-    "category": "clothing",
+    "category": "shoes",
     "concerns": [
       "comfort",
       "indoor-wear",
@@ -1465,7 +1465,7 @@
     "slug": "pointed-toe-knee-high-faux-leather-chunky-heel-boots",
     "name": "Women’s Pointed Toe Knee-High Chunky Heel Boots",
     "brand": "Generic",
-    "category": "clothing",
+    "category": "shoes",
     "concerns": [
       "style-elevation",
       "comfort-heel",
@@ -1515,7 +1515,7 @@
     "slug": "ugg-tasman-ii-slipper-chestnut-suede-shearling",
     "name": "UGG Tasman II Slipper",
     "brand": "UGG",
-    "category": "clothing",
+    "category": "shoes",
     "concerns": [
       "comfort",
       "cold-weather",
@@ -1540,7 +1540,7 @@
     "slug": "athlefit-platform-knee-high-boots-square-toe-black",
     "name": "Athlefit Platform Knee High Chunky Boots",
     "brand": "Athlefit",
-    "category": "clothing",
+    "category": "shoes",
     "concerns": [
       "comfort",
       "winter-style",
