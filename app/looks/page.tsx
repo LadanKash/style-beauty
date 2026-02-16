@@ -42,7 +42,17 @@ export default async function LooksPage() {
               href={`/looks/${l.id}`}
               className="bg-white rounded-3xl overflow-hidden border border-gray-200 hover:shadow-md transition"
             >
-              <img src={l.imageUrl} alt={l.title} className="w-full h-52 object-cover" />
+              {/* <img src={l.imageUrl} alt={l.title} className="w-full h-52 object-cover" /> */}
+ <div className="w-full aspect-[4/3] overflow-hidden">
+  <img
+    src={l.imageUrl}
+    alt={l.title}
+    className="w-full h-full object-cover object-top"
+  />
+</div>
+
+
+              
               <div className="p-4">
                 <div className="font-semibold text-lg">{l.title}</div>
                 {l.subtitle && <div className="text-sm text-gray-600 mt-1">{l.subtitle}</div>}
