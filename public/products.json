@@ -1139,6 +1139,30 @@
     "tag": "Leather Shoulder Bag"
   },
   {
+    "id": "p51",
+    "slug": "arach-cloz-womens-wool-blend-spring-sweater",
+    "name": "Arach&Cloz Women's Wool Blend Spring Sweater",
+    "brand": "Arach&Cloz",
+    "category": "clothing",
+    "concerns": [
+      "comfort",
+      "cold-weather",
+      "everyday-style"
+    ],
+    "showPriceCTA": true,
+    "price": 37.39,
+    "currency": "CAD",
+    "budget": "$$",
+    "description": "Soft and breathable wool-blend pullover sweater designed with a classic V-neck and relaxed loose fit. Lightweight anti-pilling fabric resists wrinkles and provides comfortable everyday wear, perfect for fall and winter styling.",
+    "affiliateUrl": "https://amzn.to/3MmKcIK",
+    "imageUrl": "https://stylebeauti.com/onboarding/wool-blend-spring-sweater.jpg",
+    "images": [
+      "https://stylebeauti.com/onboarding/wool-blend-spring-sweater.jpg",
+      "https://stylebeauti.com/onboarding/wool-blend-spring-sweater-model.jpeg"
+    ],
+    "tag": "Wool Blend Sweater"
+  },
+  {
     "id": "p52",
     "slug": "arach-cloz-womens-wool-blend-v-neck-sweater",
     "name": "Arach&Cloz Women's Wool Blend V-Neck Sweater",
@@ -1158,7 +1182,7 @@
     "imageUrl": "https://stylebeauti.com/onboarding/arach-vneck.jpeg",
     "images": [
       "https://stylebeauti.com/onboarding/arach-vneck.jpeg",
-      "https://stylebeauti.com/onboarding/arach-vneck-model.jpg"
+      "https://stylebeauti.com/onboarding/arach-vneck-model.jpeg"
     ],
     "tag": "Wool Blend Sweater"
   },
@@ -1183,7 +1207,7 @@
     "imageUrl": "https://stylebeauti.com/onboarding/arach-crewneck-sweater-front.jpg",
     "images": [
       "https://stylebeauti.com/onboarding/arach-crewneck-sweater-front.jpg",
-      "https://stylebeauti.com/onboarding/arach-crewneck-sweater-model.png"
+      "https://stylebeauti.com/onboarding/arach-crewneck-sweater-model.jpeg"
     ],
     "tag": "Crew Neck Wool Blend Sweater"
   },
@@ -1410,5 +1434,130 @@
       "https://stylebeauti.com/onboarding/clinique-pop-rose-lipstick-swatch.jpg"
     ],
     "tag": "Matte Lipstick"
+  },
+  {
+    "id": "p65",
+    "slug": "womens-long-winter-puffer-jacket-insulated-water-repellent",
+    "name": "Women’s Long Winter Puffer Jacket",
+    "brand": "Generic",
+    "category": "clothing",
+    "concerns": [
+      "cold-weather",
+      "water-repellent",
+      "outdoor-comfort",
+      "winter-style"
+    ],
+    "showPriceCTA": true,
+    "price": 56.95,
+    "currency": "CAD",
+    "budget": "$$",
+    "description": "Warm and stylish long puffer jacket designed for cold weather protection. Made with high-tech insulation to block cold air while maintaining lightweight comfort. Features a stand collar, windproof cuffs, and detachable hood for extra warmth. Water and stain-repellent fabric protects against light rain and spills. Durable, recyclable polyester construction with multiple secure pockets makes this jacket perfect for everyday winter wear and outdoor activities.",
+    "affiliateUrl": "https://amzn.to/4rmjrUh",
+    "imageUrl": "https://stylebeauti.com/onboarding/winter-puffer-jacket-product.jpg",
+    "images": [
+      "https://stylebeauti.com/onboarding/winter-puffer-jacket-product.jpg",
+      "https://stylebeauti.com/onboarding/winter-puffer-jacket-model.jpg"
+    ],
+    "tag": "Winter Puffer Jacket"
+  },
+  {
+    "id": "p66",
+    "slug": "pointed-toe-knee-high-faux-leather-chunky-heel-boots",
+    "name": "Women’s Pointed Toe Knee-High Chunky Heel Boots",
+    "brand": "Generic",
+    "category": "clothing",
+    "concerns": [
+      "style-elevation",
+      "comfort-heel",
+      "easy-wear",
+      "versatile-outfit"
+    ],
+    "showPriceCTA": true,
+    "price": 79.99,
+    "currency": "CAD",
+    "budget": "$$",
+    "description": "Fashion-forward knee-high boots designed with a sleek pointed toe and streamlined silhouette to visually elongate the legs. Crafted from soft faux leather with a breathable lining and full-length side zipper for easy wear. The chunky block heel provides stability and comfort, while the non-slip rubber outsole ensures confident steps. Stylish and versatile, these boots pair effortlessly with dresses, skirts, or jeans for any occasion.",
+    "affiliateUrl": "https://amzn.to/4qCfwRW",
+    "imageUrl": "https://stylebeauti.com/onboarding/pointed-knee-high-boots-product.jpg",
+    "images": [
+      "https://stylebeauti.com/onboarding/pointed-knee-high-boots-product.jpg",
+      "https://stylebeauti.com/onboarding/pointed-knee-high-boots-model.jpg"
+    ],
+    "tag": "Pointed Toe Knee-High Boots"
+  },
+  {
+    "id": "p67",
+    "slug": "wrangler-womens-high-rise-fierce-flare-jeans-stretch-32-inseam",
+    "name": "Wrangler Women’s High Rise Fierce Flare Jeans",
+    "brand": "Wrangler",
+    "category": "clothing",
+    "concerns": [
+      "flattering-fit",
+      "comfort-stretch",
+      "high-rise",
+      "everyday-denim"
+    ],
+    "showPriceCTA": true,
+    "price": 73.38,
+    "currency": "CAD",
+    "budget": "$$",
+    "description": "High-rise flare jeans designed to flatter with a curve-hugging fit through the seat and thigh, finished with a contoured waistband for a smooth silhouette. The back rise sits slightly higher for extra coverage while the front is lower for comfort when sitting. Made from authentic cotton-rich denim with stretch for all-day comfort. Finished with Wrangler’s iconic ‘W’ back pocket stitching and leather patch, plus classic five-pocket styling.",
+    "affiliateUrl": "https://amzn.to/4qKdZcF",
+    "imageUrl": "https://stylebeauti.com/onboarding/wrangler-fierce-flare-product.jpg",
+    "images": [
+      "https://stylebeauti.com/onboarding/wrangler-fierce-flare-product.jpg",
+      "https://stylebeauti.com/onboarding/wrangler-fierce-flare-model.jpg"
+    ],
+    "tag": "High-Rise Flare Jeans"
+  },
+  {
+    "id": "p68",
+    "slug": "ugg-tasman-ii-slipper-chestnut-suede-shearling",
+    "name": "UGG Tasman II Slipper",
+    "brand": "UGG",
+    "category": "clothing",
+    "concerns": [
+      "comfort",
+      "cold-weather",
+      "cozy-style",
+      "indoor-outdoor-wear"
+    ],
+    "showPriceCTA": true,
+    "price": 149.96,
+    "currency": "CAD",
+    "budget": "$$$",
+    "description": "Premium suede slip-on slippers designed for everyday comfort with a cozy sheepskin lining and lightweight cushioning. Features signature UGGbraid collar detailing and a durable EVA outsole for indoor and outdoor wear. Made with genuine dyed sheep or lamb fur for warmth and softness. Stylish, comfortable, and perfect for lounging or casual outings.",
+    "affiliateUrl": "https://amzn.to/4rSBaT6",
+    "imageUrl": "https://stylebeauti.com/onboarding/ugg-tasman-slipper-product.jpg",
+    "images": [
+      "https://stylebeauti.com/onboarding/ugg-tasman-slipper-product.jpg",
+      "https://stylebeauti.com/onboarding/ugg-tasman-slipper-model.jpg"
+    ],
+    "tag": "Shearling Slippers"
+  },
+  {
+    "id": "p69",
+    "slug": "athlefit-platform-knee-high-boots-square-toe-black",
+    "name": "Athlefit Platform Knee High Chunky Boots",
+    "brand": "Athlefit",
+    "category": "clothing",
+    "concerns": [
+      "comfort",
+      "winter-style",
+      "everyday-wear",
+      "fashion-boots"
+    ],
+    "showPriceCTA": true,
+    "price": 79.99,
+    "currency": "CAD",
+    "budget": "$$",
+    "description": "Fashion-forward knee high platform boots designed with a modern square toe and chunky heel for stylish height and comfort. Made from flexible PU leather with a side zipper for easy wear and a snug fit. Durable sole provides all-day comfort, making these boots perfect for everyday wear, work, travel, or special occasions. Versatile design transitions effortlessly from casual outfits to elegant looks.",
+    "affiliateUrl": "https://amzn.to/4bXquxL",
+    "imageUrl": "https://stylebeauti.com/onboarding/athlefit-knee-high-boots-product.jpg",
+    "images": [
+      "https://stylebeauti.com/onboarding/athlefit-knee-high-boots-product.jpg",
+      "https://stylebeauti.com/onboarding/athlefit-knee-high-boots-model.jpg"
+    ],
+    "tag": "Platform Knee High Boots"
   }
 ]
