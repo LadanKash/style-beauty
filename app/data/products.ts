@@ -1221,7 +1221,7 @@ images: [
     price: 34.97, 
   currency: "CAD",
   budget: "$$",
-  category: "clothing",
+  category: "shoes",
   concerns: ["comfort", "waterproof", "casual-wear", "travel-friendly"],
   tag: "Slide Sandals",
   images: [
