@@ -119,6 +119,10 @@ const allConcerns = useMemo(() => {
                Bags
              </FilterButton>
 
+               <FilterButton active={category === "shoes"} onClick={() => setCategory("shoes")}>
+               Shoes
+             </FilterButton>
+
                <FilterButton
               active={category === "accessories"}
               onClick={() => setCategory("accessories")}

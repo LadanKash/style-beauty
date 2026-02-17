@@ -47,7 +47,7 @@ export default async function LooksPage() {
   <img
     src={l.imageUrl}
     alt={l.title}
-    className="w-full h-full object-cover"
+    className="w-full h-full object-cover object-center"
   />
 </div>
 

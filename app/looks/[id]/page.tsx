@@ -90,7 +90,7 @@ export default async function LookDetailPage({
   <div className="bg-white rounded-3xl border border-gray-200 overflow-hidden">
 
     {/* FIXED IMAGE */}
-    <div className="w-full aspect-[4/3] bg-gray-50">
+    <div className="w-full aspect-[4/3] overflow-hidden">
       <img
         src={look.imageUrl}
         alt={look.title}
