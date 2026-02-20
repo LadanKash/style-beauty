@@ -1475,6 +1475,125 @@ images: [
 
   affiliateUrl: "https://amzn.to/4bXquxL",
 
-}
+},
+{
+  id: "p70",
+  slug: "agwolf-14k-gold-cross-zircon-stud-earrings",
+  name: "AGWOLF 14K Gold Criss-Cross Stud Earrings",
+  brand: "AGWOLF",
 
+  description:
+    "Elegant criss-cross gold stud earrings designed to elevate any jewelry collection. Featuring a stylish intersecting design that stands out beautifully whether worn alone or stacked with other earrings. Made from high-quality brass and plated with 14K gold for long-lasting shine. Lightweight, hypoallergenic, and comfortable for all-day wear.",
+
+  showPriceCTA: true,
+  price: 14.99,
+  currency: "CAD",
+  budget: "$",
+  category: "accessories",
+  concerns: ["everyday-style", "hypoallergenic", "lightweight-comfort"],
+  tag: "Minimalist Gold Jewelry",
+
+  images: [
+    "/onboarding/agwolf-cross-earrings-product.jpg",
+    "/onboarding/agwolf-cross-earrings-model.jpg"
+  ],
+
+  affiliateUrl: "https://share.google/L2i8DXpyqtHFWjVj5"
+},
+
+{
+  id: "p71",
+  slug: "jetech-iphone-16-pro-max-screen-protector-3pack",
+  name: "JETech Tempered Glass Screen Protector (3-Pack)",
+  brand: "JETech",
+  description:
+    "Premium tempered glass screen protector specially designed for iPhone 16 Pro Max (6.9-inch). Built with 9H high hardness glass to protect against scratches, drops, and daily wear. Features ultra-clear transparency and high touch sensitivity for a natural screen experience. The hydrophobic and oleophobic coating resists fingerprints, oil, and smudges. Includes an easy installation tool for perfect alignment and bubble-free application. Designed with 2.5D curved edges and compatible with most phone cases.",
+
+  showPriceCTA: true,
+  price: 9.99,
+  currency: "CAD",
+  budget: "$",
+  category: "accessories",
+  concerns: ["screen-protection", "scratch-resistance", "fingerprint-resistance"],
+  tag: "Amazon's Choice",
+
+  images: [
+    "/onboarding/jetech-screen-protector-product.jpg",
+    "/onboarding/jetech-screen-protector-model.jpg"
+  ],
+
+  affiliateUrl: "https://share.google/U08lKzmfMeqTNyh8W"
+},
+
+{
+  id: "p72",
+  slug: "Jeyfull-Huggie-Hoop-Earrings-Set-gold-plated",
+  name: "Jeyfull Huggie Hoop Earrings Set gold plated",
+  brand: "Jeyfull",
+  description:
+    "Minimalist chunky gold hoop earrings designed for everyday comfort and style. Lightweight and easy to wear with a secure click-top closure. Made with hypoallergenic stainless steel posts and real gold plating for sensitive ears. Simple, elegant, and versatile — perfect for daily wear or as a thoughtful gift.",
+
+  showPriceCTA: true,
+  price: 15.99,
+  currency: "CAD",
+  budget: "$",
+  category: "accessories",
+  concerns: ["sensitive-ears", "lightweight", "everyday-style"],
+  tag: "Chunky Gold Hoop Earrings",
+
+  images: [
+    "/onboarding/chunky-hoop-earrings-product.jpg",
+    "/onboarding/chunky-hoop-earrings-model.jpg"
+  ],
+
+  affiliateUrl: "https://share.google/yAg5gU3WoakaijGqh"
+},
+
+{
+  id: "p73",
+  slug: "chunky-drop-earrings",
+  name: "Chunky drop Earrings",
+  brand: "Shinelab",
+  description:
+    "Stylish circular drop earrings featuring a chunky twisted knot design with thick geometric links. Lightweight yet sturdy with a smooth finish for comfortable all-day wear. Made from nickel-free hypoallergenic metal that resists oxidation to maintain color over time. A timeless design perfect for casual or formal occasions and ideal for gifting.",
+
+  showPriceCTA: true,
+  price: 14.99,
+  currency: "CAD",
+  budget: "$",
+  category: "accessories",
+  concerns: ["sensitive-ears", "lightweight", "everyday-style"],
+  tag: "Chunky Knot Drop Earrings",
+
+  images: [
+    "/onboarding/twisted-knot-earrings-product.jpg",
+    "/onboarding/twisted-knot-earrings-model.jpg"
+  ],
+
+  affiliateUrl: "https://share.google/OWJPsZQOznT4O1mnL"
+},
+
+{
+  id: "p74",
+  slug: "lilieandwhite-chunky-gold-hoop-earrings-19mm",
+  name: "LILIE&WHITE Chunky Gold Hoop Earrings",
+  brand: "LILIE&WHITE",
+  description:
+    "Minimalist chunky gold hoop earrings designed for everyday comfort and effortless style. Lightweight and easy to wear with a secure click-top closure. Made with hypoallergenic stainless steel posts and real gold plating to protect sensitive ears. Elegant, versatile, and perfect for daily wear or as a thoughtful gift.",
+
+  showPriceCTA: true,
+  price: 13.08,
+  currency: "CAD",
+  budget: "$",
+  category: "accessories",
+  concerns: ["sensitive-ears", "lightweight", "everyday-style"],
+  tag: "Amazon's Choice Chunky Gold Hoops",
+
+  images: [
+    "/onboarding/lilieandwhite-hoop-earrings-product.jpg",
+    "/onboarding/lilieandwhite-hoop-earrings-model.jpg"
+  ],
+
+  affiliateUrl: "https://share.google/zZptua1Yz0ROwJq4O"
+}
 ]

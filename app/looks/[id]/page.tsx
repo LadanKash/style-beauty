@@ -90,13 +90,22 @@ export default async function LookDetailPage({
   <div className="bg-white rounded-3xl border border-gray-200 overflow-hidden">
 
     {/* FIXED IMAGE */}
-    <div className="w-full aspect-[4/3] overflow-hidden">
+    {/* <div className="w-full aspect-[4/3] overflow-hidden">
       <img
         src={look.imageUrl}
         alt={look.title}
         className="w-full h-full object-contain"
       />
-    </div>
+    </div> */}
+
+    <div className="w-full aspect-[4/3] bg-gray-50 flex items-center justify-center">
+  <img
+    src={look.imageUrl}
+    alt={look.title}
+    className="max-w-full max-h-full object-contain"
+  />
+</div>
+
 
     <div className="p-5">
       <h1 className="text-3xl font-bold">{look.title}</h1>
