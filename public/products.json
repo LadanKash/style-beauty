@@ -1600,7 +1600,7 @@
     "currency": "CAD",
     "budget": "$",
     "description": "Premium tempered glass screen protector specially designed for iPhone 16 Pro Max (6.9-inch). Built with 9H high hardness glass to protect against scratches, drops, and daily wear. Features ultra-clear transparency and high touch sensitivity for a natural screen experience. The hydrophobic and oleophobic coating resists fingerprints, oil, and smudges. Includes an easy installation tool for perfect alignment and bubble-free application. Designed with 2.5D curved edges and compatible with most phone cases.",
-    "affiliateUrl": "https://share.google/U08lKzmfMeqTNyh8W",
+    "affiliateUrl": "https://share.google/uGzOdUwTM7JDT4Jhb",
     "imageUrl": "https://stylebeauti.com/onboarding/jetech-screen-protector-product.jpg",
     "images": [
       "https://stylebeauti.com/onboarding/jetech-screen-protector-product.jpg",
@@ -1679,5 +1679,29 @@
       "https://stylebeauti.com/onboarding/lilieandwhite-hoop-earrings-model.jpg"
     ],
     "tag": "Amazon's Choice Chunky Gold Hoops"
+  },
+  {
+    "id": "p75",
+    "slug": "arach-cloz-womens-wool-blend-spring-sweater",
+    "name": "Arach&Cloz Women's Wool Blend Spring Sweater",
+    "brand": "Arach&Cloz",
+    "category": "clothing",
+    "concerns": [
+      "comfort",
+      "cold-weather",
+      "everyday-style"
+    ],
+    "showPriceCTA": true,
+    "price": 37.39,
+    "currency": "CAD",
+    "budget": "$$",
+    "description": "Soft and breathable wool-blend pullover sweater designed with a classic V-neck and relaxed loose fit. Lightweight anti-pilling fabric resists wrinkles and provides comfortable everyday wear, perfect for fall and winter styling.",
+    "affiliateUrl": "https://share.google/dlcSicVlwEAO21Efu",
+    "imageUrl": "https://stylebeauti.com/onboarding/wool-blend-spring-sweater.jpg",
+    "images": [
+      "https://stylebeauti.com/onboarding/wool-blend-spring-sweater.jpg",
+      "https://stylebeauti.com/onboarding/wool-blend-spring-sweater-model.jpeg"
+    ],
+    "tag": "Wool Blend Sweater"
   }
 ]

@@ -1522,7 +1522,7 @@ images: [
     "/onboarding/jetech-screen-protector-model.jpg"
   ],
 
-  affiliateUrl: "https://share.google/U08lKzmfMeqTNyh8W"
+  affiliateUrl: "https://share.google/uGzOdUwTM7JDT4Jhb"
 },
 
 {
@@ -1595,5 +1595,27 @@ images: [
   ],
 
   affiliateUrl: "https://share.google/zZptua1Yz0ROwJq4O"
-}
+},
+
+{
+  id: "p75",
+  slug: "arach-cloz-womens-wool-blend-spring-sweater",
+  name: "Arach&Cloz Women's Wool Blend Spring Sweater",
+  brand: "Arach&Cloz",
+  description:
+    "Soft and breathable wool-blend pullover sweater designed with a classic V-neck and relaxed loose fit. Lightweight anti-pilling fabric resists wrinkles and provides comfortable everyday wear, perfect for fall and winter styling.",
+  price: 37.39,
+  showPriceCTA: true,
+  currency: "CAD",
+  budget: "$$",
+  category: "clothing",
+  concerns: ["comfort", "cold-weather", "everyday-style"],
+  tag: "Wool Blend Sweater",
+images: [
+    "/onboarding/wool-blend-spring-sweater.jpg",
+    "/onboarding/wool-blend-spring-sweater-model.jpeg"
+  ],
+  affiliateUrl: "https://share.google/dlcSicVlwEAO21Efu"
+},
+
 ]
