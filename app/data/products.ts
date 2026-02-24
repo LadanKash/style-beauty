@@ -145,6 +145,7 @@ export const products: Product[] = [
   budget: budgetFromPrice(46.00),
   description: "A versatile hair oil that boosts shine, smooths frizz, and adds a polished finish on all hair types.",
   affiliateUrl: "https://amzn.to/4qdmptv",
+
   images: ["/onboarding/shineoil.jpeg", "/onboarding/shineoil-model.jpg"],
   tag: "Shine + Smooth",
 },
@@ -1476,6 +1477,32 @@ images: [
   affiliateUrl: "https://amzn.to/4bXquxL",
 
 },
+
+{
+  id: "p89",
+  slug: "vidussa-silk-satin-ruched-peplum-blouse",
+  name: "VIDUSSA Silk Satin Ruched Peplum Blouse",
+  brand: "VIDUSSA",
+  description:
+    "Elegant silk satin blouse designed with a mock neck, ruched tie front, and flattering peplum tunic silhouette. Crafted from soft, silky satin fabric with a smooth drape for a refined and polished look. Perfect for office wear, business casual outfits, or dressy evening occasions. A versatile statement top that transitions effortlessly from work to night out.",
+
+  showPriceCTA: true,
+  price: 32.99,
+  currency: "CAD",
+  budget: "$$",
+  category: "clothing",
+  concerns: ["business-casual", "dressy-style", "elegant-look"],
+  tag: "Satin Mock Neck Peplum Blouse",
+
+  images: [
+    "/onboarding/vidussa-satin-blouse-product.jpg",
+    "/onboarding/vidussa-satin-blouse-model.jpg"
+  ],
+
+  affiliateUrl: "https://amzn.to/4s8t2Ow"
+},
+
+
 {
   id: "p70",
   slug: "agwolf-14k-gold-cross-zircon-stud-earrings",
@@ -1503,7 +1530,7 @@ images: [
 
 {
   id: "p71",
-  slug: "jetech-iphone-16-pro-max-screen-protector-3pack",
+  slug: "jetech-iphone-13-pro-max-screen-protector-3pack",
   name: "JETech Tempered Glass Screen Protector (3-Pack)",
   brand: "JETech",
   description:
@@ -1522,7 +1549,7 @@ images: [
     "/onboarding/jetech-screen-protector-model.jpg"
   ],
 
-  affiliateUrl: "https://share.google/uGzOdUwTM7JDT4Jhb"
+  affiliateUrl: "https://amzn.to/3MrhZ3Q"
 },
 
 {
@@ -1546,7 +1573,7 @@ images: [
     "/onboarding/chunky-hoop-earrings-model.jpg"
   ],
 
-  affiliateUrl: "https://share.google/yAg5gU3WoakaijGqh"
+  affiliateUrl: "https://amzn.to/4aKM1aD"
 },
 
 {
@@ -1570,7 +1597,7 @@ images: [
     "/onboarding/twisted-knot-earrings-model.jpg"
   ],
 
-  affiliateUrl: "https://share.google/OWJPsZQOznT4O1mnL"
+  affiliateUrl: "https://amzn.to/4aTlvMw"
 },
 
 {
@@ -1594,7 +1621,7 @@ images: [
     "/onboarding/lilieandwhite-hoop-earrings-model.jpg"
   ],
 
-  affiliateUrl: "https://share.google/zZptua1Yz0ROwJq4O"
+  affiliateUrl: "https://amzn.to/4qVhuNt"
 },
 
 {
@@ -1612,10 +1639,732 @@ images: [
   concerns: ["comfort", "cold-weather", "everyday-style"],
   tag: "Wool Blend Sweater",
 images: [
-    "/onboarding/wool-blend-spring-sweater.jpg",
-    "/onboarding/wool-blend-spring-sweater-model.jpeg"
+    "/onboarding/wool-blend-spring-sweater-2.jpg",
+    "/onboarding/wool-blend-spring-sweater-2-model.jpg"
   ],
-  affiliateUrl: "https://share.google/dlcSicVlwEAO21Efu"
+  affiliateUrl: "https://amzn.to/4kLD2KS"
 },
+{
+  id: "p76",
+  slug: "square-toe-kitten-heel-thong-sandals",
+  name: "Square Toe Kitten Heel Thong Sandals",
+  brand: "Generic",
+  description:
+    "Modern square toe flip-flop sandals featuring slim straps and a sleek silhouette. Designed with a comfortable 2.56-inch kitten heel and soft lining for stability and all-day wear. Cushioned with 4mm latex padding for added support and finished with a lightweight slip-resistant outsole. Easy slip-on style perfect for both casual and dressy occasions.",
+
+  showPriceCTA: true,
+  price: 55.50,
+  currency: "CAD",
+  budget: "$$",
+  category: "shoes",
+  concerns: ["comfort", "dressy-style", "summer-fashion"],
+  tag: "Kitten Heel Thong Sandals",
+
+  images: [
+    "/onboarding/kitten-heel-sandals-product.jpg",
+    "/onboarding/kitten-heel-sandals-model.jpg"
+  ],
+
+  affiliateUrl: "https://amzn.to/4kMeyRO"
+},
+{
+  id: "p77",
+  slug: "high-waisted-wide-leg-yoga-pants",
+  name: "High Waisted Wide Leg Yoga Pants",
+  brand: "wkwmrpet",
+  description:
+    "Soft and stretchy wide leg yoga pants made from 85% nylon and 15% spandex for a comfortable all-day fit. Designed with a flattering high-rise waistband that provides support and enhances your silhouette. The full-length flared leg allows unrestricted movement, making them perfect for yoga, Pilates, dancing, lounging, or everyday wear. Features functional front side pockets for added convenience.",
+
+  showPriceCTA: true,
+  price: 32.99,
+  currency: "CAD",
+  budget: "$$",
+  category: "clothing",
+  concerns: ["comfort", "stretchy-fit", "activewear"],
+  tag: "High Rise Wide Leg Yoga Pants",
+
+  images: [
+    "/onboarding/wide-leg-yoga-pants-product.jpg",
+    "/onboarding/wide-leg-yoga-pants-model.jpg"
+  ],
+
+  affiliateUrl: "https://amzn.to/4qLJwe7"
+},
+
+{
+  id: "p78",
+  slug: "high-waisted-pleated-bermuda-shorts-women",
+  name: "High Waisted Pleated Bermuda Shorts",
+  brand: "Feiersi",
+  description:
+    "Lightweight and breathable women's bermuda shorts made from 94% polyester and 6% spandex for a soft, comfortable fit. Designed with a high-waisted silhouette, elastic back waistband, removable belt, and functional pockets. The relaxed fit with pleated front and folded hem creates a chic look that transitions easily from casual to dressy occasions.",
+
+  showPriceCTA: true,
+  price: 29.98,
+  currency: "CAD",
+  budget: "$",
+  category: "clothing",
+  concerns: ["summer-style", "comfort", "versatile-fashion"],
+  tag: "High Waisted Pleated Shorts",
+
+  images: [
+    "/onboarding/pleated-bermuda-shorts-black-product.jpg",
+    "/onboarding/pleated-bermuda-shorts-black-model.jpg"
+  ],
+
+  affiliateUrl: "https://amzn.to/4s4KMu7"
+},
+
+{
+  id: "p79",
+  slug: "high-waisted-pleated-bermuda-shorts-women",
+  name: "High Waisted Pleated Bermuda Shorts",
+  brand: "Feiersi",
+  description:
+    "Lightweight and breathable women's bermuda shorts made from 94% polyester and 6% spandex for a soft, comfortable fit. Designed with a high-waisted silhouette, elastic back waistband, removable belt, and functional pockets. The relaxed fit with pleated front and folded hem creates a chic look that transitions easily from casual to dressy occasions.",
+
+  showPriceCTA: true,
+  price: 29.98,
+  currency: "CAD",
+  budget: "$",
+  category: "clothing",
+  concerns: ["summer-style", "comfort", "versatile-fashion"],
+  tag: "High Waisted Pleated Shorts",
+
+  images: [
+    "/onboarding/pleated-bermuda-shorts-product.jpg",
+    "/onboarding/pleated-bermuda-shorts-model.jpg"
+  ],
+
+  affiliateUrl: "https://amzn.to/4rWI3Ts"
+},
+
+{
+  id: "p81",
+  slug: "charne-womens-long-sleeve-v-neck-button-blouse",
+  name: "Charne Womens Long Sleeve V Neck Button Blouse",
+  brand: "Charne",
+  description:
+    "Lightweight and soft long sleeve blouse made from 100% polyester for a comfortable and breathable feel. Designed with a collared V-neck, button-down front, and loose fit silhouette that covers the hips. Perfect for work, office wear, or casual styling throughout all seasons. Easy to pair with jeans, leggings, shorts, or skirts for versatile everyday looks.",
+
+  showPriceCTA: true,
+  price: 26.99,
+  currency: "CAD",
+  budget: "$",
+  category: "clothing",
+  concerns: ["casual-style", "workwear", "all-season"],
+  tag: "Loose Fit Button Down Blouse",
+
+  images: [
+    "/onboarding/charne-blouse-white-product.jpg",
+    "/onboarding/charne-blouse-white-model.jpg"
+  ],
+
+  affiliateUrl: "https://amzn.to/4aJXV4J"
+},
+
+{
+  id: "p80",
+  slug: "charne-womens-long-sleeve-v-neck-button-blouse",
+  name: "Charne Womens Long Sleeve V Neck Button Blouse",
+  brand: "Charne",
+  description:
+    "Lightweight and soft long sleeve blouse made from 100% polyester for a comfortable and breathable feel. Designed with a collared V-neck, button-down front, and loose fit silhouette that covers the hips. Perfect for work, office wear, or casual styling throughout all seasons. Easy to pair with jeans, leggings, shorts, or skirts for versatile everyday looks.",
+
+  showPriceCTA: true,
+  price: 26.99,
+  currency: "CAD",
+  budget: "$",
+  category: "clothing",
+  concerns: ["casual-style", "workwear", "all-season"],
+  tag: "Loose Fit Button Down Blouse",
+
+  images: [
+    "/onboarding/charne-blouse-product.jpg",
+    "/onboarding/charne-blouse-model.jpg"
+  ],
+
+  affiliateUrl: "https://amzn.to/4aurgBj"
+},
+
+{
+  id: "p82",
+  slug: "levis-womens-cinch-baggy-jeans",
+  name: "Levi's Womens Cinch Baggy Jeans",
+  brand: "Levi's",
+  description:
+    "Classic baggy denim redefined with a flattering high-rise fit and no waist gap. Designed with a relaxed silhouette through the hip and thigh and finished with a wide straight leg. Features adjustable back cinch details for a tailored-to-you fit. Made from 100% non-stretch cotton for an authentic denim feel and timeless style.",
+
+  showPriceCTA: true,
+  price: 59.97,
+  currency: "CAD",
+  budget: "$$$",
+  category: "clothing",
+  concerns: ["denim-style", "high-rise-fit", "relaxed-fit"],
+  tag: "#1 Best Seller Baggy Jeans",
+
+  images: [
+    "/onboarding/levis-cinch-baggy-jeans-product.jpg",
+    "/onboarding/levis-cinch-baggy-jeans-model.jpg"
+  ],
+
+  affiliateUrl: "https://amzn.to/4aIyEI3"
+},
+{
+  id: "p83",
+  slug: "levis-womens-ribcage-bell-bottom-jeans",
+  name: "Levi's Women's Ribcage Bell Bottom Jeans",
+  brand: "Levi's",
+  description:
+    "Levi's highest high-rise jean featuring a waist-defining 12-inch rise and a flattering figure-hugging silhouette. Designed to slim the hips and elongate the legs, this style is relaxed through the hip and thigh with a classic bootcut bell bottom leg. Crafted from a comfortable cotton blend for structure with slight stretch.",
+
+  showPriceCTA: true,
+  price: 72.50,
+  currency: "CAD",
+  budget: "$$$",
+  category: "clothing",
+  concerns: ["high-rise-fit", "figure-flattering", "denim-style"],
+  tag: "Ribcage Bell Bottom Jeans",
+
+  images: [
+    "/onboarding/levis-ribcage-bell-bottom-product.jpg",
+    "/onboarding/levis-ribcage-bell-bottom-model.jpg"
+  ],
+
+  affiliateUrl: "https://amzn.to/4cF3cwS"
+},
+
+{
+  id: "p84",
+  slug: "sidefeel-high-waist-stretch-flared-jeans",
+  name: "SIDEFEEL Women's High Waist Stretch Flared Jeans",
+  brand: "SIDEFEEL",
+  description:
+    "High-waisted stretch denim jeans designed to highlight the waist and flatter your curves. Featuring a stylish dual-button front design, front pockets, and a wide-leg flared bootcut silhouette. Made from a soft, stretchy cotton blend for comfort and flexibility, offering tummy control support for a smooth, confidence-boosting fit. Perfect for casual wear or office styling all year round.",
+
+  showPriceCTA: true,
+  price: 54.99,
+  currency: "CAD",
+  budget: "$$",
+  category: "clothing",
+  concerns: ["high-rise-fit", "tummy-control", "stretch-comfort"],
+  tag: "High Waist Flared Bootcut Jeans",
+
+  images: [
+    "/onboarding/sidefeel-flared-jeans-product.jpg",
+    "/onboarding/sidefeel-flared-jeans-model.jpg"
+  ],
+
+  affiliateUrl: "https://amzn.to/4cFVNNN"
+},
+
+{
+  id: "p85",
+  slug: "oyamiki-womens-boho-maxi-pleated-a-line-skirt",
+  name: "Oyamiki Women Boho Maxi Pleated A-Line Skirt",
+  brand: "Oyamiki",
+  description:
+    "Flowy bohemian maxi skirt featuring a high elastic waistband and elegant A-line silhouette. Designed with a pleated, asymmetrical tiered hem that moves beautifully with every step. Made from breathable fabric for all-season comfort and finished with practical side pockets. Perfect for beach days, festivals, casual outings, or dressy occasions.",
+
+  showPriceCTA: true,
+  price: 28.79,
+  currency: "CAD",
+  budget: "$",
+  category: "clothing",
+  concerns: ["boho-style", "comfortable-fit", "flowy-silhouette"],
+  tag: "Boho A-Line Maxi Skirt",
+
+  images: [
+    "/onboarding/oyamiki-maxi-skirt-product.jpg",
+    "/onboarding/oyamiki-maxi-skirt-model.jpg"
+  ],
+
+  affiliateUrl: "https://amzn.to/4kNF4dz"
+},
+
+
+{
+  id: "p88",
+  slug: "zeagoo-womens-turtleneck-chunky-knit-sweater",
+  name: "Zeagoo Women's Turtleneck Chunky Knit Sweater",
+  brand: "Zeagoo",
+  description:
+    "Cozy oversized turtleneck sweater crafted from a soft, stretchy knit blend for warmth and comfort during fall and winter. Designed with drop shoulders, a high-low asymmetric hem, and a relaxed loose fit for a modern silhouette. Perfect for pairing with jeans, leggings, skirts, or layering with coats and jackets for a chic seasonal look.",
+
+  showPriceCTA: true,
+  price: 39.99,
+  currency: "CAD",
+  budget: "$$",
+  category: "clothing",
+  concerns: ["winter-style", "oversized-fit", "soft-knit"],
+  tag: "Chunky Turtleneck Pullover",
+
+  images: [
+    "/onboarding/zeagoo-turtleneck-sweater-product.jpg",
+    "/onboarding/zeagoo-turtleneck-sweater-model.jpg"
+  ],
+
+  affiliateUrl: "https://amzn.to/46lqggt"
+},
+
+
+
+{
+  id: "p90",
+  slug: "vidussa-satin-off-shoulder-ruched-blouse",
+  name: "VIDUSSA Satin Off Shoulder Ruched Blouse",
+  brand: "VIDUSSA",
+  description:
+    "Trendy off-shoulder satin blouse crafted from silky smooth fabric with an elegant drape. Designed with a ruched asymmetrical silhouette to flatter your curves while adding a modern touch. Short sleeve and lightweight, perfect for summer styling from casual daytime outings to sophisticated evening events. A versatile statement top that blends comfort and elegance effortlessly.",
+
+  showPriceCTA: true,
+  price: 25.99,
+  currency: "CAD",
+  budget: "$$",
+  category: "clothing",
+  concerns: ["summer-style", "dressy-casual", "elegant-look"],
+  tag: "Satin One Shoulder Ruched Top",
+
+  images: [
+    "/onboarding/vidussa-off-shoulder-top-product.jpg",
+    "/onboarding/vidussa-off-shoulder-top-model.jpg"
+  ],
+
+  affiliateUrl: "https://amzn.to/4awiNh5"
+},
+
+{
+  id: "p92",
+  slug: "blooming-jelly-womens-pleated-business-casual-blouse",
+  name: "Blooming Jelly Womens Pleated Business Casual Top",
+  brand: "Blooming Jelly",
+  description:
+    "Lightweight and breathable short sleeve blouse crafted from soft textured fabric for all-day summer comfort. Designed with a flattering crew neck, cap sleeves, curved hem, elegant pleated details, and a subtle gold clasp accent. The relaxed fit creates a polished yet effortless look, perfect for business casual outfits, office wear, or dressy everyday styling.",
+
+  showPriceCTA: true,
+  price: 26.99,
+  currency: "CAD",
+  budget: "$$",
+  category: "clothing",
+  concerns: ["business-casual", "summer-style", "comfortable-fit"],
+  tag: "Pleated Short Sleeve Work Blouse",
+
+  images: [
+    "/onboarding/blooming-jelly-blouse-black-product.jpg",
+    "/onboarding/blooming-jelly-blouse-black-model.jpg"
+  ],
+
+  affiliateUrl: "https://amzn.to/4tNXdfv"
+},
+
+{
+  id: "p94",
+  slug: "blooming-jelly-womens-pleated-business-casual-blouse",
+  name: "Blooming Jelly Womens Pleated Business Casual Top",
+  brand: "Blooming Jelly",
+  description:
+    "Lightweight and breathable short sleeve blouse crafted from soft textured fabric for all-day summer comfort. Designed with a flattering crew neck, cap sleeves, curved hem, elegant pleated details, and a subtle gold clasp accent. The relaxed fit creates a polished yet effortless look, perfect for business casual outfits, office wear, or dressy everyday styling.",
+
+  showPriceCTA: true,
+  price: 26.99,
+  currency: "CAD",
+  budget: "$$",
+  category: "clothing",
+  concerns: ["business-casual", "summer-style", "comfortable-fit"],
+  tag: "Pleated Short Sleeve Work Blouse",
+
+  images: [
+    "/onboarding/blooming-jelly-blouse-product.jpg",
+    "/onboarding/blooming-jelly-blouse-model.jpg"
+  ],
+
+  affiliateUrl: "https://amzn.to/3MXRKlA"
+},
+{
+  id: "p95",
+  slug: "allegra-k-boho-eyelet-high-waist-midi-skirt",
+  name: "Allegra K Boho Eyelet High Waist Midi Skirt",
+  brand: "Allegra K",
+  description:
+    "Elegant high-waisted midi skirt crafted with a breathable cotton shell and soft lining for comfort. Designed with delicate embroidered eyelet details, a flattering A-line silhouette, and a flowy swing shape. Features a back elastic waistband and side zipper for a secure and comfortable fit. Perfect for vacation outfits, beach days, parties, or special summer occasions.",
+
+  showPriceCTA: true,
+  price: 69.99,
+  currency: "CAD",
+  budget: "$$",
+  category: "clothing",
+  concerns: ["boho-style", "summer-fashion", "flowy-silhouette"],
+  tag: "Boho Eyelet Midi Skirt",
+
+  images: [
+    "/onboarding/allegra-k-eyelet-skirt-product.jpg",
+    "/onboarding/allegra-k-eyelet-skirt-model.jpg"
+  ],
+
+  affiliateUrl: "https://amzn.to/3OrGIWh"
+},
+
+{
+  id: "p96",
+  slug: "abardsion-cotton-long-sleeve-basic-tee",
+  name: "Abardsion Cotton Long Sleeve Basic Tee",
+  brand: "Abardsion",
+  description:
+    "Soft and stretchy long sleeve cotton tee crafted from a breathable cotton-spandex blend for all-day comfort. Designed with a classic crew neck, slim fit silhouette, and solid color style that layers effortlessly under jackets and cardigans. A versatile year-round base layer perfect for casual wear, office outfits, or everyday styling from fall to spring.",
+
+  showPriceCTA: true,
+  price: 24.99,
+  currency: "CAD",
+  budget: "$",
+  category: "clothing",
+  concerns: ["basic-layer", "soft-fabric", "all-season"],
+  tag: "Slim Fit Cotton Long Sleeve Tee",
+
+  images: [
+    "/onboarding/abardsion-long-sleeve-tee-product.jpg",
+    "/onboarding/abardsion-long-sleeve-tee-model.jpg"
+  ],
+
+  affiliateUrl: "https://amzn.to/40pvMuS"
+},
+
+{
+  id: "p98",
+  slug: "womens-floral-summer-short-sleeve-sundress",
+  name: "Womens Floral Summer Short Sleeve Sundress",
+  brand: "Generic",
+  description:
+    "Lightweight and breathable floral summer dress designed with a flattering round neckline and flowy silhouette. Made from soft, comfortable fabric for all-day wear. Perfect for beach days, summer parties, vacations, or evening occasions. A versatile and elegant dress that transitions effortlessly from casual daytime looks to dressy events.",
+
+  showPriceCTA: true,
+  price: 35.49,
+  currency: "CAD",
+  budget: "$",
+  category: "clothing",
+  concerns: ["summer-style", "flowy-fit", "party-ready"],
+  tag: "Floral Short Sleeve Summer Dress",
+
+  images: [
+    "/onboarding/floral-summer-dress-product.jpg",
+    "/onboarding/floral-summer-dress-model.jpg"
+  ],
+
+  affiliateUrl: "https://amzn.to/4tUn8lS"
+},
+
+{
+  id: "p99",
+  slug: "leiyee-womens-batwing-crew-neck-knit-sweater",
+  name: "LEIYEE Womens Batwing Crew Neck Knit Sweater",
+  brand: "LEIYEE",
+  description:
+    "Lightweight rib-knit pullover sweater designed with a classic crew neck and stylish batwing dolman sleeves with button details. Features a drop shoulder silhouette and relaxed fit for a soft, comfortable feel. Perfect for fall, winter, and spring styling, easily paired with jeans, skirts, leggings, or layered under jackets for a dressy casual look.",
+
+  showPriceCTA: true,
+  price: 38.99,
+  currency: "CAD",
+  budget: "$$",
+  category: "clothing",
+  concerns: ["casual-style", "soft-knit", "all-season"],
+  tag: "Batwing Button Detail Sweater",
+
+  images: [
+    "/onboarding/leiyee-sweater-product.jpg",
+    "/onboarding/leiyee-sweater-model.jpg"
+  ],
+
+  affiliateUrl: "https://amzn.to/4tMeu8M"
+},
+
+
+
+{
+  id: "p101",
+  slug: "dream-pairs-espadrille-platform-wedge-sandals",
+  name: "Dream Pairs Womens Espadrille Platform Wedge Sandals",
+  brand: "DREAM PAIRS",
+  description:
+    "Chic open-toe espadrille platform wedge sandals designed to elevate your summer style. Featuring a 3.2-inch wedge heel, elastic ankle straps for a secure fit, and a soft PU-covered latex insole for all-day cushioning. The textured thermoplastic rubber sole provides stability and support, making them perfect for both casual and dressy occasions.",
+
+  showPriceCTA: true,
+  price: 49.99,
+  currency: "CAD",
+  budget: "$$",
+  category: "shoes",
+  concerns: ["summer-style", "comfortable-heel", "dressy-casual"],
+  tag: "Espadrille Platform Wedges",
+
+  images: [
+    "/onboarding/dream-pairs-wedges-product.jpg",
+    "/onboarding/dream-pairs-wedges-model.jpg"
+  ],
+
+  affiliateUrl: "https://amzn.to/4tPiWUj"
+},
+
+{
+  id: "p102",
+  slug: "shoe-land-deverena-low-heel-mule-sandals",
+  name: "Shoe Land Deverena Low Heel Mule Sandals",
+  brand: "Shoe Land",
+  description:
+    "Elegant open-toe mule sandals designed with a wide single strap and a chic 2.75-inch kitten heel. Featuring a convenient slip-on style, cushioned insole, and slip-resistant outsole for confident, all-day wear. These versatile low heels pair effortlessly with dresses, skirts, or jeans—perfect for weddings, parties, vacations, or everyday style.",
+
+  showPriceCTA: true,
+  price: 57.89,
+  currency: "CAD",
+  budget: "$$",
+  category: "shoes",
+  concerns: ["comfortable-heel", "dressy-style", "easy-slip-on"],
+  tag: "Open Toe Kitten Heel Mules",
+
+  images: [
+    "/onboarding/shoe-land-mule-heels-product.jpg",
+    "/onboarding/shoe-land-mule-heels-model.jpg"
+  ],
+
+  affiliateUrl: "https://amzn.to/3MJOsCu"
+},
+
+{
+  id: "p103",
+  slug: "dream-pairs-karrie-high-stiletto-pump-sandals",
+  name: "DREAM PAIRS Women's Karrie High Stiletto Pump Sandals",
+  brand: "DREAM PAIRS",
+  description:
+    "Classic open-toe high stiletto sandals designed to elevate your look with a sleek silhouette and trendy color options. Featuring a 4.5-inch heel with a subtle 0.25-inch platform for added balance. Crafted with a durable TPR rubber sole and latex padded insole for enhanced comfort and stability. Perfect for parties, formal events, and elegant evening styling.",
+
+  showPriceCTA: true,
+  price: 74.01,
+  currency: "CAD",
+  budget: "$$",
+  category: "shoes",
+  concerns: ["high-heel-style", "evening-wear", "comfortable-padding"],
+  tag: "High Stiletto Open Toe Heels",
+
+  images: [
+    "/onboarding/dream-pairs-karrie-heels-product.jpg",
+    "/onboarding/dream-pairs-karrie-heels-model.jpg"
+  ],
+
+  affiliateUrl: "https://amzn.to/3MSpm4p"
+},
+
+
+// {
+//   id: "p104",
+//   slug: "abardsion-cotton-long-sleeve-base-layer-top",
+//   name: "Abardsion Cotton Long Sleeve Base Layer Top",
+//   brand: "Abardsion",
+//   description:
+//     "Soft and stretchy long sleeve cotton tee crafted from a breathable 95% cotton and 5% spandex blend. Designed with a classic crew neckline and slim fit silhouette for comfortable layering. Lightweight, skin-friendly, and versatile—perfect as a base layer under jackets or cardigans or styled on its own for casual and business casual outfits year-round.",
+
+//   showPriceCTA: true,
+//   price: 24.99,
+//   currency: "CAD",
+//   budget: "$",
+//   category: "clothing",
+//   concerns: ["basic-layer", "soft-fabric", "all-season"],
+//   tag: "Slim Fit Cotton Long Sleeve Top",
+
+//   images: [
+//     "/onboarding/abardsion-base-layer-product.jpg",
+//     "/onboarding/abardsion-base-layer-model.jpg"
+//   ],
+
+//   affiliateUrl: "https://amzn.to/40pvMuS"
+// },
+
+{
+  id: "p105",
+  slug: "spring-seaon-womens-chiffon-button-down-blouse",
+  name: "SPRING SEAON Women's Chiffon Button Down Blouse",
+  brand: "SPRING SEAON",
+  description:
+    "Classic long sleeve chiffon blouse crafted from lightweight textured polyester fabric that is soft, breathable, and not see-through. Designed with a collared neckline, button-down front, and straight fit silhouette that flatters without feeling tight. The curved hem adds a polished touch, making it perfect for business casual, office wear, or everyday styling.",
+
+  showPriceCTA: true,
+  price: 36.99,
+  currency: "CAD",
+  budget: "$",
+  category: "clothing",
+  concerns: ["business-casual", "lightweight-fabric", "office-style"],
+  tag: "Chiffon Collared Button Down Shirt",
+
+  images: [
+    "/onboarding/spring-seaon-blouse-product.jpg",
+    "/onboarding/spring-seaon-blouse-model.jpg"
+  ],
+
+  affiliateUrl: "https://amzn.to/3OBOvAL"
+},
+
+{
+  id: "p107",
+  slug: "zawapemia-womens-striped-color-block-tshirt",
+  name: "ZAWAPEMIA Women's Striped Color Block T-Shirt",
+  brand: "ZAWAPEMIA",
+  description:
+    "Casual striped crew neck T-shirt featuring a trendy triple color block design and relaxed fit silhouette. Made from a soft and stretchy cotton-polyester blend for all-day comfort. Designed with short sleeves and a curved hem, perfect for pairing with jeans, leggings, or layering with a denim jacket for effortless everyday style.",
+
+  showPriceCTA: true,
+  price: 15.99,
+  currency: "CAD",
+  budget: "$",
+  category: "clothing",
+  concerns: ["casual-style", "comfortable-fit", "everyday-wear"],
+  tag: "Striped Color Block Casual Tee",
+
+  images: [
+    "/onboarding/zawapemia-striped-tee-product.jpg",
+    "/onboarding/zawapemia-striped-tee-model.jpg"
+  ],
+
+  affiliateUrl: "https://amzn.to/3OrH1Ap"
+},
+
+{
+  id: "p106",
+  slug: "oxzksnkey-y2k-halter-backless-tank-top",
+  name: "OXZKSNKEY Y2K Halter Backless Tank Top",
+  brand: "OXZKSNKEY",
+  description:
+    "Trendy Y2K-inspired halter tank top featuring a high mock neck and open back design. Crafted from soft, lightweight, and stretchy polyester for a slim and flattering fit. This sleeveless crop cami adds a bold, stylish touch to your summer wardrobe—perfect for nights out, beach days, vacations, or casual outings.",
+
+  showPriceCTA: true,
+  price: 32.99,
+  currency: "CAD",
+  budget: "$",
+  category: "clothing",
+  concerns: ["y2k-style", "summer-style", "going-out"],
+  tag: "Backless High Neck Halter Top",
+
+  images: [
+    "/onboarding/oxzksnkey-halter-top-product.jpg",
+    "/onboarding/oxzksnkey-halter-top-model.jpeg"
+  ],
+
+  affiliateUrl: "https://amzn.to/4b3X1RN"
+},
+
+{
+  id: "p108",
+  slug: "adidas-womens-grand-court-2-sneakers",
+  name: "Adidas Women's Grand Court 2.0",
+  brand: "adidas",
+  description:
+    "Classic lifestyle sneakers inspired by iconic court style. Designed with a synthetic leather upper, lace closure, and Cloudfoam Comfort sockliner for cushioned support throughout the day. Featuring a timeless silhouette that pairs effortlessly with any outfit, these sneakers combine everyday comfort with sporty tradition. Made with at least 50% recycled materials for a more sustainable choice.",
+
+  showPriceCTA: true,
+  price: 62.98,
+  currency: "CAD",
+  budget: "$$",
+  category: "shoes",
+  concerns: ["everyday-comfort", "classic-style", "sporty-look"],
+  tag: "#1 Best Seller Classic Sneakers",
+
+  images: [
+    "/onboarding/adidas-grand-court-product.jpg",
+    "/onboarding/adidas-grand-court-model.jpg"
+  ],
+
+  affiliateUrl: "https://amzn.to/4kYOTFS"
+},
+
+{
+  id: "p109",
+  slug: "under-armour-mens-tech-2-short-sleeve-tshirt",
+  name: "Under Armour Mens Tech 2.0 Short-Sleeve T-Shirt",
+  brand: "Under Armour",
+  description:
+    "Lightweight performance T-shirt made with UA Tech fabric for a quick-drying, ultra-soft feel. Designed to wick sweat and dry fast while featuring anti-odor technology to help prevent unwanted smells. The streamlined fit and shaped hem offer a modern athletic silhouette, making it ideal for training, workouts, or everyday active wear.",
+
+  showPriceCTA: true,
+  price: 43.79,
+  currency: "CAD",
+  budget: "$$",
+  category: "clothing",
+  concerns: ["activewear", "quick-dry", "performance-fit"],
+  tag: "UA Tech Performance Tee",
+
+  images: [
+    "/onboarding/under-armour-tech-shirt-product.jpg",
+    "/onboarding/under-armour-tech-shirt-model.jpg"
+  ],
+
+  affiliateUrl: "https://amzn.to/4s3t3TD"
+},
+
+{
+  id: "p110",
+  slug: "adidas-womens-run-70s-2-sneakers",
+  name: "adidas Women's Run 70s 2.0",
+  brand: "adidas",
+  description:
+    "Classic and stylish women's sneakers designed with a durable leather upper and secure lace-up closure. Featuring Cloudfoam cushioning for all-day comfort and a rubber outsole that provides reliable traction. Perfect for everyday wear, these versatile sneakers complete casual looks with sporty flair.",
+
+  showPriceCTA: true,
+  price: 95.00,
+  currency: "CAD",
+  budget: "$$",
+  category: "shoes",
+  concerns: ["everyday-comfort", "sporty-style", "casual-wear"],
+  tag: "Run 70s Lifestyle Sneakers",
+
+  images: [
+    "/onboarding/adidas-run-70s-product.jpg",
+    "/onboarding/adidas-run-70s-model.jpg"
+  ],
+
+  affiliateUrl: "https://amzn.to/3MNZWVA"
+},
+
+{
+  id: "p100",
+  slug: "michael-kors-womens-raina-trainer",
+  name: "Michael Kors Womens Raina Trainer",
+  brand: "Michael Kors",
+  description:
+    "Sport-luxe lace-up trainer designed in a classic running silhouette with signature logo-print canvas and metallic accents. Crafted with multi-textured leather details and a durable rubber sole for style and comfort. Perfect for city streets, weekend errands, or casual-chic outfits that blend luxury with everyday wear.",
+
+  showPriceCTA: true,
+  price: 118.17,
+  currency: "CAD",
+  budget: "$$$",
+  category: "shoes",
+  concerns: ["luxury-style", "everyday-comfort", "streetwear"],
+  tag: "Signature Logo Raina Trainer",
+
+  images: [
+    "/onboarding/michael-kors-raina-trainer-product.jpg",
+    "/onboarding/michael-kors-raina-trainer-model.jpg"
+  ],
+
+  affiliateUrl: "https://amzn.to/4cMVoct"
+},
+
+{
+  id: "p111",
+  slug: "tacvasen-mens-classic-cotton-crew-neck-tshirt",
+  name: "TACVASEN Mens Classic Cotton Crew Neck T-Shirt",
+  brand: "TACVASEN",
+  description:
+    "Classic short sleeve crew neck T-shirt made from 100% soft, breathable cotton for lightweight comfort. Designed with durable stitching and a resilient fit for long-lasting wear. A versatile wardrobe essential that pairs effortlessly with jeans, slacks, or shorts for a simple and timeless casual look.",
+
+  showPriceCTA: true,
+  price: 29.98,
+  currency: "CAD",
+  budget: "$",
+  category: "clothing",
+  concerns: ["basic-tee", "breathable-fabric", "everyday-wear"],
+  tag: "Classic Cotton Crew Neck Tee",
+
+  images: [
+    "/onboarding/tacvasen-cotton-tee-product.jpg",
+    "/onboarding/tacvasen-cotton-tee-model.jpg"
+  ],
+
+  affiliateUrl: "https://amzn.to/4stIlBF"
+}
 
 ]
