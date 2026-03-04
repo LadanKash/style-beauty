@@ -72,13 +72,13 @@ export const LOOKS: Look[] = [
     subtitle: "Outfit inspiration + accessories",
     imageUrl: "https://stylebeauti.com/onboarding/outfitidea-2.png",
     items: [
-      { productId: "p38", "label": "Ray-Ban Erika RB4171 Sunglasses" },
-      { productId: "p40", "label": "Citizen Axiom Eco-Drive Ladies Watch" },
-      { productId: "p44", "label": "Swarovski Bella Drop Crystal Earrings" },
-      { productId: "p49", "label": "Arach&Cloz Women's Wool Blend V-Neck Sweater" },
-      { productId: "p80", "label": "Women's High Waist Jeans" },
-      { productId: "p99", "label": "Michael Kors Womens Raina Trainer" },
-      { productId: "p46", "label": "Clinique Pop Plush Cream Lip Gloss – Strawberry Pop" }
+      { productId: "p40", "label": "Ray-Ban Erika RB4171 Sunglasses" },
+      { productId: "p42", "label": "Citizen Axiom Eco-Drive Ladies Watch" },
+      { productId: "p47", "label": "Swarovski Bella Drop Crystal Earrings" },
+      { productId: "p52", "label": "Arach&Cloz Women's Wool Blend V-Neck Sweater" },
+      { productId: "p84", "label": "Women's High Waist Jeans" },
+      { productId: "p100", "label": "Michael Kors Womens Raina Trainer" },
+      { productId: "p49", "label": "Clinique Pop Plush Cream Lip Gloss – Strawberry Pop" }
     ],
   },
 
@@ -113,17 +113,16 @@ export const LOOKS: Look[] = [
     ],
   },
    {
-    id: "Outfit-fashion-2",
+    id: "Outfit-fashion-4",
     title: "Outfit Ideas",
     subtitle: "Outfit inspiration + accessories",
-    imageUrl: "https://stylebeauti.com/onboarding/outfitidea-2.png",
+    imageUrl: "https://stylebeauti.com/onboarding/outfitidea-4.png",
     items: [
-      { productId: "p40", "label": "Ray-Ban Erika RB4171 Sunglasses" },
-      { productId: "p42", "label": "Citizen Axiom Eco-Drive Ladies Watch" },
-      { productId: "p47", "label": "Swarovski Bella Drop Crystal Earrings" },
-      { productId: "p52", "label": "Arach&Cloz Women's Wool Blend V-Neck Sweater" },
+      { productId: "p34", "label": "Ray-Ban RB3548N Hexagonal Sunglasses" },
+      { productId: "p69", "label": "LILIE&WHITE Chunky Gold Hoop Earrings" },
+      { productId: "p72", "label": "Arach&Cloz Women's Sweater" },
       { productId: "p84", "label": "SIDEFEEL Women's High Waist Stretch Flared Jeans" },
-      { productId: "p100", "label": "Michael Kors Womens Raina Trainer" },
+      { productId: "p110", "label": "adidas Women's Run 70s 2.0" },
       { productId: "p49", "label": "Clinique Pop Plush Cream Lip Gloss – Strawberry Pop" }
     ],
   },
