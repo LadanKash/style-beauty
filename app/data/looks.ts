@@ -23,6 +23,7 @@ export const LOOKS: Look[] = [
       { productId: "p3", label: "Eye Brightening" },
     ],
   },
+
   {
     id: "winter-fashion-1",
     title: "Winter Outfit",
@@ -37,7 +38,20 @@ export const LOOKS: Look[] = [
     ],
   },
 
-     {
+    {
+    id: "winter-fashion-2",
+    title: "Winter Outfit",
+    subtitle: "Cozy layers + accessories",
+    imageUrl: "https://stylebeauti.com/onboarding/winter-fashion-2.png",
+    items: [
+      { productId: "p15", "label": "Necklace Swarovski" },
+      { productId: "p17", "label": " Kate Spade Madison Bag" },
+      { productId: "p22", "label": "Womens Pants" },
+      { productId: "p23", "label": "Mickael Kors Shoes" }
+    ],
+  },
+
+       {
     id: "winter-fashion-3",
     title: "Outfit Ideas",
     subtitle: "Outfit inspiration + accessories",
@@ -52,29 +66,19 @@ export const LOOKS: Look[] = [
     ],
   },
 
-  //   {
-  //   id: "winter-fashion-2",
-  //   title: "Winter Outfit",
-  //   subtitle: "Cozy layers + accessories",
-  //   imageUrl: "https://stylebeauti.com/onboarding/winter-fashion-2.png",
-  //   items: [
-  //     { productId: "p15", "label": "Necklace Swarovski" },
-  //     { productId: "p17", "label": " Kate Spade Madison Bag" },
-  //     { productId: "p22", "label": "Womens Pants" },
-  //     { productId: "p23", "label": "Mickael Kors Shoes" }
-  //   ],
-  // },
-
     {
-    id: "winter-fashion-2",
-    title: "Winter Outfit",
+    id: "Outfit-fashion-2",
+    title: "Outfit Ideas",
     subtitle: "Outfit inspiration + accessories",
-    imageUrl: "https://stylebeauti.com/onboarding/winter-fashion-2.png",
+    imageUrl: "https://stylebeauti.com/onboarding/outfitidea-2.png",
     items: [
-      { productId: "p15", "label": "Necklace Swarovski" },
-      { productId: "p17", "label": " Kate Spade Madison Bag" },
-      { productId: "p22", "label": "Womens Pants" },
-      { productId: "p23", "label": "Mickael Kors Shoes" }
+      { productId: "p38", "label": "Ray-Ban Erika RB4171 Sunglasses" },
+      { productId: "p40", "label": "Citizen Axiom Eco-Drive Ladies Watch" },
+      { productId: "p44", "label": "Swarovski Bella Drop Crystal Earrings" },
+      { productId: "p49", "label": "Arach&Cloz Women's Wool Blend V-Neck Sweater" },
+      { productId: "p80", "label": "Women's High Waist Jeans" },
+      { productId: "p99", "label": "Michael Kors Womens Raina Trainer" },
+      { productId: "p46", "label": "Clinique Pop Plush Cream Lip Gloss – Strawberry Pop" }
     ],
   },
 
@@ -91,5 +95,54 @@ export const LOOKS: Look[] = [
       { productId: "p64", "label": "Clinique Lipstick" },
       { productId: "p40", "label": "Ray-Ban Sunglasses" }
     ],
+  },
+
+     {
+    id: "Outfit-fashion-3",
+    title: "Outfit Ideas",
+    subtitle: "Outfit inspiration + accessories",
+    imageUrl: "https://stylebeauti.com/onboarding/outfitidea-3.png",
+    items: [
+      { productId: "p3", "label": "Clinique All About Eyes"},
+      { productId: "p43", "label": "Fossil Women's Gilmore Three-Hand Gold-Tone Stainless Steel Watch" },
+      { productId: "p89", "label": "VIDUSSA Silk Satin Ruched Peplum Blouse" },
+      { productId: "p79", "label": "High Waisted Pleated Bermuda Shorts" },
+      { productId: "p73", "label": "Chunky drop Earrings" },
+      { productId: "p103", "label": "DREAM PAIRS Women's Karrie High Stiletto Pump Sandals" },
+      
+    ],
+  },
+   {
+    id: "Outfit-fashion-2",
+    title: "Outfit Ideas",
+    subtitle: "Outfit inspiration + accessories",
+    imageUrl: "https://stylebeauti.com/onboarding/outfitidea-2.png",
+    items: [
+      { productId: "p40", "label": "Ray-Ban Erika RB4171 Sunglasses" },
+      { productId: "p42", "label": "Citizen Axiom Eco-Drive Ladies Watch" },
+      { productId: "p47", "label": "Swarovski Bella Drop Crystal Earrings" },
+      { productId: "p52", "label": "Arach&Cloz Women's Wool Blend V-Neck Sweater" },
+      { productId: "p84", "label": "SIDEFEEL Women's High Waist Stretch Flared Jeans" },
+      { productId: "p100", "label": "Michael Kors Womens Raina Trainer" },
+      { productId: "p49", "label": "Clinique Pop Plush Cream Lip Gloss – Strawberry Pop" }
+    ],
+  },
+
+     {
+    id: "Outfit-fashion-5",
+    title: "Outfit Ideas",
+    subtitle: "Outfit inspiration + accessories",
+    imageUrl: "https://stylebeauti.com/onboarding/outfitidea-5.png",
+    items: [
+      { productId: "p35", "label": "Ray-Ban RB3016 Clubmaster Sunglasses" },
+      { productId: "p41", "label": "Citizen Corso Eco-Drive Ladies Watch" },
+      { productId: "p48", "label": "Clinique Pop Lip Colour + Primer – Glazed Berry" },
+      { productId: "p50", "label": "Michael Kors Jet Set Travel Large Chain Shoulder Bag" },
+      { productId: "p73", "label": "Chunky drop Earrings" },
+      { productId: "p23", "label": "Michael Kors Elyse High Pump" },
+      { productId: "p92", "label": "Blooming Jelly Womens Pleated Business Casual Top"},
+      { productId: "p22", "label": "PRETTYGARDEN Womens Wide Leg Dress Pants" }
+    ]
   }
+  
 ];

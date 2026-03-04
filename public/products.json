@@ -2161,6 +2161,30 @@
     "tag": "Batwing Button Detail Sweater"
   },
   {
+    "id": "p100",
+    "slug": "michael-kors-womens-raina-trainer",
+    "name": "Michael Kors Womens Raina Trainer",
+    "brand": "Michael Kors",
+    "category": "shoes",
+    "concerns": [
+      "luxury-style",
+      "everyday-comfort",
+      "streetwear"
+    ],
+    "showPriceCTA": true,
+    "price": 118.17,
+    "currency": "CAD",
+    "budget": "$$$",
+    "description": "Sport-luxe lace-up trainer designed in a classic running silhouette with signature logo-print canvas and metallic accents. Crafted with multi-textured leather details and a durable rubber sole for style and comfort. Perfect for city streets, weekend errands, or casual-chic outfits that blend luxury with everyday wear.",
+    "affiliateUrl": "https://amzn.to/4cMVoct",
+    "imageUrl": "https://stylebeauti.com/onboarding/michael-kors-raina-trainer-product.jpg",
+    "images": [
+      "https://stylebeauti.com/onboarding/michael-kors-raina-trainer-product.jpg",
+      "https://stylebeauti.com/onboarding/michael-kors-raina-trainer-model.jpg"
+    ],
+    "tag": "Signature Logo Raina Trainer"
+  },
+  {
     "id": "p101",
     "slug": "dream-pairs-espadrille-platform-wedge-sandals",
     "name": "Dream Pairs Womens Espadrille Platform Wedge Sandals",
@@ -2257,30 +2281,6 @@
     "tag": "Chiffon Collared Button Down Shirt"
   },
   {
-    "id": "p107",
-    "slug": "zawapemia-womens-striped-color-block-tshirt",
-    "name": "ZAWAPEMIA Women's Striped Color Block T-Shirt",
-    "brand": "ZAWAPEMIA",
-    "category": "clothing",
-    "concerns": [
-      "casual-style",
-      "comfortable-fit",
-      "everyday-wear"
-    ],
-    "showPriceCTA": true,
-    "price": 15.99,
-    "currency": "CAD",
-    "budget": "$",
-    "description": "Casual striped crew neck T-shirt featuring a trendy triple color block design and relaxed fit silhouette. Made from a soft and stretchy cotton-polyester blend for all-day comfort. Designed with short sleeves and a curved hem, perfect for pairing with jeans, leggings, or layering with a denim jacket for effortless everyday style.",
-    "affiliateUrl": "https://amzn.to/3OrH1Ap",
-    "imageUrl": "https://stylebeauti.com/onboarding/zawapemia-striped-tee-product.jpg",
-    "images": [
-      "https://stylebeauti.com/onboarding/zawapemia-striped-tee-product.jpg",
-      "https://stylebeauti.com/onboarding/zawapemia-striped-tee-model.jpg"
-    ],
-    "tag": "Striped Color Block Casual Tee"
-  },
-  {
     "id": "p106",
     "slug": "oxzksnkey-y2k-halter-backless-tank-top",
     "name": "OXZKSNKEY Y2K Halter Backless Tank Top",
@@ -2303,6 +2303,30 @@
       "https://stylebeauti.com/onboarding/oxzksnkey-halter-top-model.jpeg"
     ],
     "tag": "Backless High Neck Halter Top"
+  },
+  {
+    "id": "p107",
+    "slug": "zawapemia-womens-striped-color-block-tshirt",
+    "name": "ZAWAPEMIA Women's Striped Color Block T-Shirt",
+    "brand": "ZAWAPEMIA",
+    "category": "clothing",
+    "concerns": [
+      "casual-style",
+      "comfortable-fit",
+      "everyday-wear"
+    ],
+    "showPriceCTA": true,
+    "price": 15.99,
+    "currency": "CAD",
+    "budget": "$",
+    "description": "Casual striped crew neck T-shirt featuring a trendy triple color block design and relaxed fit silhouette. Made from a soft and stretchy cotton-polyester blend for all-day comfort. Designed with short sleeves and a curved hem, perfect for pairing with jeans, leggings, or layering with a denim jacket for effortless everyday style.",
+    "affiliateUrl": "https://amzn.to/3OrH1Ap",
+    "imageUrl": "https://stylebeauti.com/onboarding/zawapemia-striped-tee-product.jpg",
+    "images": [
+      "https://stylebeauti.com/onboarding/zawapemia-striped-tee-product.jpg",
+      "https://stylebeauti.com/onboarding/zawapemia-striped-tee-model.jpg"
+    ],
+    "tag": "Striped Color Block Casual Tee"
   },
   {
     "id": "p108",
@@ -2375,30 +2399,6 @@
       "https://stylebeauti.com/onboarding/adidas-run-70s-model.jpg"
     ],
     "tag": "Run 70s Lifestyle Sneakers"
-  },
-  {
-    "id": "p100",
-    "slug": "michael-kors-womens-raina-trainer",
-    "name": "Michael Kors Womens Raina Trainer",
-    "brand": "Michael Kors",
-    "category": "shoes",
-    "concerns": [
-      "luxury-style",
-      "everyday-comfort",
-      "streetwear"
-    ],
-    "showPriceCTA": true,
-    "price": 118.17,
-    "currency": "CAD",
-    "budget": "$$$",
-    "description": "Sport-luxe lace-up trainer designed in a classic running silhouette with signature logo-print canvas and metallic accents. Crafted with multi-textured leather details and a durable rubber sole for style and comfort. Perfect for city streets, weekend errands, or casual-chic outfits that blend luxury with everyday wear.",
-    "affiliateUrl": "https://amzn.to/4cMVoct",
-    "imageUrl": "https://stylebeauti.com/onboarding/michael-kors-raina-trainer-product.jpg",
-    "images": [
-      "https://stylebeauti.com/onboarding/michael-kors-raina-trainer-product.jpg",
-      "https://stylebeauti.com/onboarding/michael-kors-raina-trainer-model.jpg"
-    ],
-    "tag": "Signature Logo Raina Trainer"
   },
   {
     "id": "p111",

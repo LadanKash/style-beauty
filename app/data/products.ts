@@ -587,22 +587,24 @@ export const products: Product[] = [
 
 // {
 //   id: "p29",
-//   slug: "dream-pairs-platform-mini-winter-boots",
-//   name: "DREAM PAIRS Platform Mini Winter Boots",
-//   brand: "DREAM PAIRS",
+//   slug: "everest-classic-backpack-eggplant-purple",
+//   name: "Everest Classic Backpack",
+//   brand: "Generic",
 //   description:
-//     "Cozy platform mini snow boots crafted in soft suede with plush faux-fur lining and a cushioned memory foam insole for warmth, comfort, and everyday winter wear.",
-//   price: 54.99,
+//     "Lightweight classic backpack made from durable 600D polyester with spacious main compartment and front zipper pocket. Ideal for school, work, travel, and everyday use.",
+//   price: null,
+//   showPriceCTA: true,
+//     // price: 64.99,
 //   currency: "CAD",
-//   budget: "$",
-//   category: "clothing",
-//   concerns: ["warmth", "winter", "comfort", "outdoor"],
-//   tag: "Winter essential",
+//   budget: "$$",
+//   category: "bags",
+//   concerns: ["daily-use", "lightweight", "storage"],
+//   tag: "Classic Backpack",
 //   images: [
-//      "/onboarding/dreampairs-mini.jpeg",
-//     "/onboarding/dreampairs-mini-model.jpeg"
+//     "/onboarding/everest-backpack-front.jpg",
+//     // "/onboarding/everest-backpack-front-model.jpg"
 //   ],
-//   affiliateUrl: "https://amzn.to/3ZAB5ak"
+//   affiliateUrl: "https://amzn.to/4kr0iOj"
 // },
 {
   id: "p30",
@@ -904,26 +906,27 @@ export const products: Product[] = [
   ],
   affiliateUrl: "https://amzn.to/4aAyPX4"
 },
+
 // {
 //   id: "p44",
-//   slug: "guess-ladies-silver-gold-bracelet-watch",
-//   name: "Guess Ladies Dress Silver & Gold Tone Stainless Steel Bracelet Watch",
-//   brand: "Guess",
+//   slug: "everest-classic-backpack-eggplant-purple",
+//   name: "Everest Classic Backpack",
+//   brand: "Generic",
 //   description:
-//     "Elegant and petite two-tone stainless steel watch featuring a polished silver and gold case with crystal accents, sunray white dial, and quartz analog movement. Perfect for both everyday wear and dress occasions.",
+//     "Lightweight classic backpack made from durable 600D polyester with spacious main compartment and front zipper pocket. Ideal for school, work, travel, and everyday use.",
 //   price: null,
 //   showPriceCTA: true,
-//     // price: 133.98, 
+//     // price: 64.99,
 //   currency: "CAD",
 //   budget: "$$",
-//   category: "accessories",
-//   concerns: ["elegant-style", "everyday-wear", "lightweight"],
-//   tag: "Two-Tone Crystal Watch",
-//  images: [
-//     // "/onboarding/guess-gold-watch-front.jpeg",
-//     "/onboarding/guess-gold-watch-model.png"
+//   category: "bags",
+//   concerns: ["daily-use", "lightweight", "storage"],
+//   tag: "Classic Backpack",
+//   images: [
+//     "/onboarding/everest-backpack-front.jpg",
+//     // "/onboarding/everest-backpack-front-model.jpg"
 //   ],
-//   affiliateUrl: "https://amzn.to/4qjhVB3"
+//   affiliateUrl: "https://amzn.to/4kr0iOj"
 // },
 {
   id: "p45",
@@ -1168,25 +1171,26 @@ images: [
 
 // {
 //   id: "p56",
-//   slug: "womens-long-sleeve-peplum-bodycon-midi-work-dress",
-//   name: "Women's Long Sleeve Peplum Bodycon Midi Dress",
+//   slug: "everest-classic-backpack-eggplant-purple",
+//   name: "Everest Classic Backpack",
 //   brand: "Generic",
 //   description:
-//     "Elegant slim-fit midi dress featuring a classic crew neckline, long sleeves, and flattering high-waisted peplum detail. Designed with a concealed back zipper and body-hugging silhouette for a polished professional look. Perfect for office wear, business meetings, interviews, church, or formal casual occasions.",
-//   price: 69.99,
+//     "Lightweight classic backpack made from durable 600D polyester with spacious main compartment and front zipper pocket. Ideal for school, work, travel, and everyday use.",
+//   price: null,
 //   showPriceCTA: true,
-//     // price: 0, 
+//     // price: 64.99,
 //   currency: "CAD",
 //   budget: "$$",
-//   category: "clothing",
-//   concerns: ["office-style", "formal-wear", "slimming-fit", "work-outfit"],
-//   tag: "Peplum Bodycon Work Dress",
+//   category: "bags",
+//   concerns: ["daily-use", "lightweight", "storage"],
+//   tag: "Classic Backpack",
 //   images: [
-//     // "/onboarding/peplum-midi-dress-front.jpg",
-//     // "/onboarding/peplum-midi-dress-model.jpg"
+//     "/onboarding/everest-backpack-front.jpg",
+//     // "/onboarding/everest-backpack-front-model.jpg"
 //   ],
-//   affiliateUrl: "https://amzn.to/4r2572S"
+//   affiliateUrl: "https://amzn.to/4kr0iOj"
 // },
+
 
 
 {
@@ -1254,25 +1258,26 @@ images: [
 },
 // {
 //   id: "p60",
-//   slug: "womens-winter-hooded-puffer-jacket-insulated",
-//   name: "Women's Winter Hooded Puffer Jacket",
+//   slug: "everest-classic-backpack-eggplant-purple",
+//   name: "Everest Classic Backpack",
 //   brand: "Generic",
 //   description:
-//     "Warm and lightweight winter puffer jacket designed with advanced insulation to block cold air. Features a detachable hood, windproof cuffs, and water- and stain-repellent fabric for reliable cold-weather protection. Includes multiple secure pockets and durable recyclable polyester construction, making it perfect for daily wear and outdoor winter activities.",
+//     "Lightweight classic backpack made from durable 600D polyester with spacious main compartment and front zipper pocket. Ideal for school, work, travel, and everyday use.",
 //   price: null,
 //   showPriceCTA: true,
-//     // price: 0, 
+//     // price: 64.99,
 //   currency: "CAD",
 //   budget: "$$",
-//   category: "clothing",
-//   concerns: ["cold-weather", "water-resistant", "outdoor-activities", "comfort"],
-//   tag: "Winter Puffer Jacket",
+//   category: "bags",
+//   concerns: ["daily-use", "lightweight", "storage"],
+//   tag: "Classic Backpack",
 //   images: [
-//     // "/onboarding/womens-puffer-jacket-front.jpg",
-//     // "/onboarding/womens-puffer-jacket-model.jpg"
+//     "/onboarding/everest-backpack-front.jpg",
+//     // "/onboarding/everest-backpack-front-model.jpg"
 //   ],
-//   affiliateUrl: "https://amzn.to/4tuSsYb"
+//   affiliateUrl: "https://amzn.to/4kr0iOj"
 // },
+
 {
   id: "p61",
   slug: "clinique-cheek-pop-blush-heather-pop",
@@ -1739,6 +1744,7 @@ images: [
   affiliateUrl: "https://amzn.to/4rWI3Ts"
 },
 
+
 {
   id: "p81",
   slug: "charne-womens-long-sleeve-v-neck-button-blouse",
@@ -1881,8 +1887,49 @@ images: [
 
   affiliateUrl: "https://amzn.to/4kNF4dz"
 },
+// {
+//   id: "p86",
+//   slug: "everest-classic-backpack-eggplant-purple",
+//   name: "Everest Classic Backpack",
+//   brand: "Generic",
+//   description:
+//     "Lightweight classic backpack made from durable 600D polyester with spacious main compartment and front zipper pocket. Ideal for school, work, travel, and everyday use.",
+//   price: null,
+//   showPriceCTA: true,
+//     // price: 64.99,
+//   currency: "CAD",
+//   budget: "$$",
+//   category: "bags",
+//   concerns: ["daily-use", "lightweight", "storage"],
+//   tag: "Classic Backpack",
+//   images: [
+//     "/onboarding/everest-backpack-front.jpg",
+//     // "/onboarding/everest-backpack-front-model.jpg"
+//   ],
+//   affiliateUrl: "https://amzn.to/4kr0iOj"
+// },
 
-
+// {
+//   id: "p87",
+//   slug: "everest-classic-backpack-eggplant-purple",
+//   name: "Everest Classic Backpack",
+//   brand: "Generic",
+//   description:
+//     "Lightweight classic backpack made from durable 600D polyester with spacious main compartment and front zipper pocket. Ideal for school, work, travel, and everyday use.",
+//   price: null,
+//   showPriceCTA: true,
+//     // price: 64.99,
+//   currency: "CAD",
+//   budget: "$$",
+//   category: "bags",
+//   concerns: ["daily-use", "lightweight", "storage"],
+//   tag: "Classic Backpack",
+//   images: [
+//     "/onboarding/everest-backpack-front.jpg",
+//     // "/onboarding/everest-backpack-front-model.jpg"
+//   ],
+//   affiliateUrl: "https://amzn.to/4kr0iOj"
+// },
 {
   id: "p88",
   slug: "zeagoo-womens-turtleneck-chunky-knit-sweater",
@@ -1907,7 +1954,9 @@ images: [
   affiliateUrl: "https://amzn.to/46lqggt"
 },
 
-
+// {
+//   id: "p89",
+// },
 
 {
   id: "p90",
@@ -1933,6 +1982,27 @@ images: [
   affiliateUrl: "https://amzn.to/4awiNh5"
 },
 
+// {
+//   id: "p91",
+//   slug: "everest-classic-backpack-eggplant-purple",
+//   name: "Everest Classic Backpack",
+//   brand: "Generic",
+//   description:
+//     "Lightweight classic backpack made from durable 600D polyester with spacious main compartment and front zipper pocket. Ideal for school, work, travel, and everyday use.",
+//   price: null,
+//   showPriceCTA: true,
+//     // price: 64.99,
+//   currency: "CAD",
+//   budget: "$$",
+//   category: "bags",
+//   concerns: ["daily-use", "lightweight", "storage"],
+//   tag: "Classic Backpack",
+//   images: [
+//     "/onboarding/everest-backpack-front.jpg",
+//     // "/onboarding/everest-backpack-front-model.jpg"
+//   ],
+//   affiliateUrl: "https://amzn.to/4kr0iOj"
+// },
 {
   id: "p92",
   slug: "blooming-jelly-womens-pleated-business-casual-blouse",
@@ -1957,6 +2027,27 @@ images: [
   affiliateUrl: "https://amzn.to/4tNXdfv"
 },
 
+// {
+//   id: "p93",
+//   slug: "everest-classic-backpack-eggplant-purple",
+//   name: "Everest Classic Backpack",
+//   brand: "Generic",
+//   description:
+//     "Lightweight classic backpack made from durable 600D polyester with spacious main compartment and front zipper pocket. Ideal for school, work, travel, and everyday use.",
+//   price: null,
+//   showPriceCTA: true,
+//     // price: 64.99,
+//   currency: "CAD",
+//   budget: "$$",
+//   category: "bags",
+//   concerns: ["daily-use", "lightweight", "storage"],
+//   tag: "Classic Backpack",
+//   images: [
+//     "/onboarding/everest-backpack-front.jpg",
+//     // "/onboarding/everest-backpack-front-model.jpg"
+//   ],
+//   affiliateUrl: "https://amzn.to/4kr0iOj"
+// },
 {
   id: "p94",
   slug: "blooming-jelly-womens-pleated-business-casual-blouse",
@@ -2027,7 +2118,27 @@ images: [
 
   affiliateUrl: "https://amzn.to/40pvMuS"
 },
-
+// {
+//   id: "p97",
+//   slug: "everest-classic-backpack-eggplant-purple",
+//   name: "Everest Classic Backpack",
+//   brand: "Generic",
+//   description:
+//     "Lightweight classic backpack made from durable 600D polyester with spacious main compartment and front zipper pocket. Ideal for school, work, travel, and everyday use.",
+//   price: null,
+//   showPriceCTA: true,
+//     // price: 64.99,
+//   currency: "CAD",
+//   budget: "$$",
+//   category: "bags",
+//   concerns: ["daily-use", "lightweight", "storage"],
+//   tag: "Classic Backpack",
+//   images: [
+//     "/onboarding/everest-backpack-front.jpg",
+//     // "/onboarding/everest-backpack-front-model.jpg"
+//   ],
+//   affiliateUrl: "https://amzn.to/4kr0iOj"
+// },
 {
   id: "p98",
   slug: "womens-floral-summer-short-sleeve-sundress",
@@ -2077,7 +2188,29 @@ images: [
 },
 
 
+{
+  id: "p100",
+  slug: "michael-kors-womens-raina-trainer",
+  name: "Michael Kors Womens Raina Trainer",
+  brand: "Michael Kors",
+  description:
+    "Sport-luxe lace-up trainer designed in a classic running silhouette with signature logo-print canvas and metallic accents. Crafted with multi-textured leather details and a durable rubber sole for style and comfort. Perfect for city streets, weekend errands, or casual-chic outfits that blend luxury with everyday wear.",
 
+  showPriceCTA: true,
+  price: 118.17,
+  currency: "CAD",
+  budget: "$$$",
+  category: "shoes",
+  concerns: ["luxury-style", "everyday-comfort", "streetwear"],
+  tag: "Signature Logo Raina Trainer",
+
+  images: [
+    "/onboarding/michael-kors-raina-trainer-product.jpg",
+    "/onboarding/michael-kors-raina-trainer-model.jpg"
+  ],
+
+  affiliateUrl: "https://amzn.to/4cMVoct"
+},
 {
   id: "p101",
   slug: "dream-pairs-espadrille-platform-wedge-sandals",
@@ -2198,6 +2331,29 @@ images: [
 
   affiliateUrl: "https://amzn.to/3OBOvAL"
 },
+{
+  id: "p106",
+  slug: "oxzksnkey-y2k-halter-backless-tank-top",
+  name: "OXZKSNKEY Y2K Halter Backless Tank Top",
+  brand: "OXZKSNKEY",
+  description:
+    "Trendy Y2K-inspired halter tank top featuring a high mock neck and open back design. Crafted from soft, lightweight, and stretchy polyester for a slim and flattering fit. This sleeveless crop cami adds a bold, stylish touch to your summer wardrobe—perfect for nights out, beach days, vacations, or casual outings.",
+
+  showPriceCTA: true,
+  price: 32.99,
+  currency: "CAD",
+  budget: "$",
+  category: "clothing",
+  concerns: ["y2k-style", "summer-style", "going-out"],
+  tag: "Backless High Neck Halter Top",
+
+  images: [
+    "/onboarding/oxzksnkey-halter-top-product.jpg",
+    "/onboarding/oxzksnkey-halter-top-model.jpeg"
+  ],
+
+  affiliateUrl: "https://amzn.to/4b3X1RN"
+},
 
 {
   id: "p107",
@@ -2223,29 +2379,7 @@ images: [
   affiliateUrl: "https://amzn.to/3OrH1Ap"
 },
 
-{
-  id: "p106",
-  slug: "oxzksnkey-y2k-halter-backless-tank-top",
-  name: "OXZKSNKEY Y2K Halter Backless Tank Top",
-  brand: "OXZKSNKEY",
-  description:
-    "Trendy Y2K-inspired halter tank top featuring a high mock neck and open back design. Crafted from soft, lightweight, and stretchy polyester for a slim and flattering fit. This sleeveless crop cami adds a bold, stylish touch to your summer wardrobe—perfect for nights out, beach days, vacations, or casual outings.",
 
-  showPriceCTA: true,
-  price: 32.99,
-  currency: "CAD",
-  budget: "$",
-  category: "clothing",
-  concerns: ["y2k-style", "summer-style", "going-out"],
-  tag: "Backless High Neck Halter Top",
-
-  images: [
-    "/onboarding/oxzksnkey-halter-top-product.jpg",
-    "/onboarding/oxzksnkey-halter-top-model.jpeg"
-  ],
-
-  affiliateUrl: "https://amzn.to/4b3X1RN"
-},
 
 {
   id: "p108",
@@ -2319,29 +2453,7 @@ images: [
   affiliateUrl: "https://amzn.to/3MNZWVA"
 },
 
-{
-  id: "p100",
-  slug: "michael-kors-womens-raina-trainer",
-  name: "Michael Kors Womens Raina Trainer",
-  brand: "Michael Kors",
-  description:
-    "Sport-luxe lace-up trainer designed in a classic running silhouette with signature logo-print canvas and metallic accents. Crafted with multi-textured leather details and a durable rubber sole for style and comfort. Perfect for city streets, weekend errands, or casual-chic outfits that blend luxury with everyday wear.",
 
-  showPriceCTA: true,
-  price: 118.17,
-  currency: "CAD",
-  budget: "$$$",
-  category: "shoes",
-  concerns: ["luxury-style", "everyday-comfort", "streetwear"],
-  tag: "Signature Logo Raina Trainer",
-
-  images: [
-    "/onboarding/michael-kors-raina-trainer-product.jpg",
-    "/onboarding/michael-kors-raina-trainer-model.jpg"
-  ],
-
-  affiliateUrl: "https://amzn.to/4cMVoct"
-},
 
 {
   id: "p111",
